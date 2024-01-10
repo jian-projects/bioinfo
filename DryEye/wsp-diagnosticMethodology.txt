@@ -1,0 +1,1680 @@
+Dry eye is a multifactorial disease of the ocular surface characterized by a loss of homeostasis of the tear ﬁlm, and accompanied by ocular symptoms, in which tear ﬁlm instability and hyperosmolarity, ocular surface inﬂammation and damage, and neurosensory abnormalities play etiological roles. 
+(dry eye, multifactorial, ocular surface disease) 
+(dry eye, character, loss of homeostasis of the tear film) 
+(dry eye, accompany symptoms, tear film instability)
+(dry eye, accompany symptoms, tear film hyperosmolarity)
+(dry eye, accompany symptoms, ocular surface inflammation)
+(dry eye, accompany symptoms, ocular surface damage)
+(dry eye, accompany symptoms, neurosensory abnormalities)
+
+
+The tear ﬁlm has a vital role in providing lubrication and protection to the ocular surface, as well as maintaining a smooth, refractive surface for optimal visual performance. 
+(Tear film, lubrication, ocular surface)
+(Tear film, protection, ocular surface)
+(Tear film, smooth, refractive surface)
+
+
+Disruption of homeostasis is considered to be the unifying characteristic that describes the fundamental process in the development of DED.
+(DED, unifying characteristic, disruption of homeostasis)
+
+It is important to note that many ocular surface diseases can be co-morbid with dry eye. 
+(Many ocular surface diseases, co-morbid, dry eye)
+
+Corneal nerve damage secondary to longstanding DED is a recognized phenomenon and the reduced
+corneal sensitivity can mask discomfort. 
+(DED, recognized phenomenon, corneal nerve damage)
+(DED, reduce, corneal sensitivity)
+
+MGD, a contributor to EDE, is considered the leading cause of dry eye in clinic and population based studies.
+(MGD, the leading cause, dry eye)
+
+Dry eye is a multifactorial disease of the ocular surface characterized by a loss of homeostasis of the tear ﬁlm, and accompanied
+by ocular symptoms, in which tear ﬁlm instability and hyperosmolarity, ocular surface inﬂammation and damage, and neurosensory abnormalities play etiological roles.
+(Dry eye, multifactorial disease, ocular surface)
+(Dry eye, the characteristic, loss of homeostasis of the tear film)
+(Dry eye, accompanied symptoms, tear film instability)
+(Dry eye, accompanied symptoms, tear film hyperosmolarity)
+(Dry eye, accompanied symptoms, ocular surface inflammation)
+(Dry eye, accompanied symptoms, ocular surface damage)
+(Dry eye, accompanied symptoms, neurosensory)
+
+In general, the OSDI is the most widely used questionnaire for DED clinical trials. 
+（OSDI, the most widely used questionnaire, Dry eye clinical trials）
+
+The OSDI measures frequency of symptoms, environmental triggers and vision related quality of life.
+(OSDI, measure, frequency of symptoms)
+(OSDI, measure, environmental triggers)
+(OSDI, measure, vision related quality of life)
+
+The Ocular Surface Disease Index (OSDI) includes 6 questions related to visual disturbance (blurred vision, or poor vision) or visual function (problems reading, driving at night, working on a computer, or watching TV).
+(The ocular surface disease index, include, visual disturbance questions)
+(The ocular surface disease index, include, visual function questions)
+(The ocular surface disease index, include, problems reading)
+(the ocular surface disease index, include, problems driving at night)
+(The ocular surface disease index, include, problems working on a computer)
+(The ocular surface disease index, include, problems watching TV)
+
+
+A study showed that the DED group of 87 patients had worse OSDI composite and subscale scores for vision-related function, compared to a group of 71 patients without DED.
+(DED group, have, worse OSDI composite and subscale scores)
+
+The Dry Eye Questionnaire (DEQ-5) has 4 questions related to visual disturbance, including the frequency of visual changes, how noticeable the visual disturbance is in the morning and at night, as well as how much the visual ﬂuctuation bothers the respondent. 
+(The dry eye questionnaire, include, the frequency of visual changes)
+(The dry eye questionnaire, include, the visual disturbance in the morning and at night)
+(The dry eye questionnaire, include, the visual fluctuation bothers the respondent)
+
+
+One study using the DEQ found that 10% of patients with  Non-Sjögren's syndrome  DED and 30% of patients with Sjögren syndrome complained of impaired vision while others reported that between 42% and 80% of patients with primary Sjögren syndrome experienced “disturbances in daily vision” 
+(Patients with DED, complained of, impaired vision)
+
+The Impact of Dry Eye on Everyday Living (IDEEL) questionnaire has 2 items related to visual disturbance including the extent to which a person is bothered by “blurry vision” or “sensitivity to light, glare, and/or wind”.
+(IDEEL questionnaire, has, 2 items)
+(IDEEL questionnaire, related to , visual disturbance)
+(IDEEL questionnaire, include, the extent to which is bothered by "blurry vision")
+(IDEEL questionnaire, include, the extent to which is bothered by "sensitivity to light, glare, and/or wind")
+
+
+Statistically signiﬁcant differences in responses to the IDEEL questionnaire scores across varying levels of DED severity have been observed.
+(Varying levels of DED severity, observed, statistically significant differences in responses to the IDEEL questionnaire scores)
+
+
+The National Eye Institute’s Visual Function Questionnaire (NEI VFQ-25) is a generic visual function questionnaire with seven visual domains including general vision, distance vision, peripheral vision, driving, near vision, color vision, and ocular pain.
+(NEI VFQ-25, is, a generic visual function questionnaire)
+(NEI VFQ-25, include, general vision)
+(NEI VFQ-25, include, distance vision)
+(NEI VFQ-25, include, driving)
+(NEI VFQ-25, include, near vision)
+(NEI VFQ-25, include, color vision)
+(NEI VFQ-25, include, ocular pain)
+
+DED patients have poorer NEI VFQ-25 scores for the subscales of general health, general vision, ocular pain, short distance vision
+activities, long distance vision activities, vision-related social function, vision-related mental health, vision-related role difﬁ-
+culties, vision-related dependency, and driving.
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of general health)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of general vision)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of ocular pain)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of short distance vision activities)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of long distance vision activities)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of vision-related social function)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of vision-related mental health)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of vision-related role difficulties)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of vision-related dependency)
+(DED patients, have, poored NEI VFQ-25 scores for the subscales of driving)
+
+
+
+The Dry Eye-Related Quality-of-Life Score (DEQS) questionnaire developed in Japan has shown strong correlations with 4 subscales (Ocular
+Pain, Near Vision, Distance Vision, and Mental Health) of the NEI VFQ-25.
+(DEQS questionnaire, has shown strong correlations with, ocular pain）
+(DEQS questionnaire, has shown strong correlations with, near vision)
+(DEQS questionnaire, has shown strong correlations with, distance vision)
+(DEQS questionnaire, has shown strong correlations with, mental health)
+
+
+Dynamic methodologies to assess visual function in DED patients include detection of randomly located targets of differing contrast during a driving simulation.
+(Dynamic assessment of visual function in DED patients, include, randomly located targets of differing contrast during a driving simulation)
+
+
+DED patients exhibit a decrease in contrast sensitivity with tear ﬁlm breakup.
+(DED patients, exhibit, decrease in contrast sensitivity with tear ﬁlm breakup)
+
+
+FVA is reduced in DED patients, Sjögren syndrome and Stevens Johnson syndrome, more than in controls, due to irregularity of the ocular surface and induced higher order aberrations (HOAs), and it improves with treatment. 
+(DED patients, reduced, FVA)
+
+
+The application of FVA measurements in ocular surface disease (OSD) has identiﬁed a signiﬁcant decline of FVA relating to
+decreased tear clearance in the elderly and associated with the short BUT type of DED in ofﬁce workers, atopic keratoconjunctivitis,
+conjunctivochalasis and in elderly drivers.
+(FVA measurements, is significant decline, in ocular surface disease)
+
+Impaired tear ﬁlm stability has been one of the fundamental diagnostic criteria for diagnosing abnormality of the tear
+ﬁlm.
+(Tear film instability, is, the fundamental diagnostic criteria for diagnosing abnormality of the tear film. )
+
+
+
+In clinical practice, the most frequently employed test of tear ﬁlm stability is the measurement of the tear ﬁlm breakup time (TBUT).
+(Tear film breakup time, is, the most frequently employed test of tear film stability)
+
+
+
+The tear film breakup time (TBUT) is the interval of time that elapses between a complete blink and the appearance of the ﬁrst break in the tear ﬁlm.
+(The tear film breakup time, is, the interval of time  that elapses between a complete blink and the appearance of the first break in the tear film)
+
+
+
+The reference value for DED diagnosis when ﬂuorescein is used ranges from a cut-off time of less than 10 s, to
+less than 5 s when smaller, more controlled volumes of ﬂuorescein are used. 
+
+
+Despite the drawbacks of using ﬂuorescein to assess tear ﬁlm stability, Fluorescence tear break-up time（FBUT） still remains one of the most commonly used diagnostic tests for DED in clinical practice.
+(Fluorescence tear break-up time, is one of the most commonly used diagnostic tests, in DED clinical practice)
+
+
+Since tear ﬁlm stability can be affected by ﬂuorescein, temperature, humidity and air circulation, non-invasive breakup time (NIBUT) measurements have become more popular in both clinical practice and research.
+(Non-invasive breakup time, is more popular, in both clinical practice and research)
+(Tear film stability, can be affected, by fluorescein)
+(Tear film stability, can be affected, by temperature)
+(Tear film stability, can be affected, by humidity)
+(Tear film stability, can be affected, by air circulation)
+
+
+Interferometry is also used to assess the stability of the tear
+ﬁlm in a non-invasive manner.
+(Interferometry, is used to, assess the stability of the tear film)
+(Interferometry, is, non-invasive manner)
+
+Evaporation of the tear ﬁlm results in a cooling of the ocular surface, therefore measuring the absolute temperature and the spatial and temporal changes in temperature during the inter-blink period, can be used as an index of tear ﬁlm stability.
+(Evaporation of the tear film, results in, a cooling of the ocular surface)
+(measuring the absolute temperature, can be used as an index, for tear film stability)
+(Measuring the spatial and temporal changes in temperature ,can be used as an index, for tear film stability)
+
+Infrared thermography is able to measure the temperature of the ocular surface in a non-invasive manner and provide an objective, quantitative output.
+(Infrared thermography, is able to, measure the temperature of the ocular surface)
+(Infrared thermography, is, a non-invasive manner)
+(Infrared thermography, provide, an objective and quantitative output)
+
+
+The evidence in the literature indicates that the cooling rate
+of the ocular surface is faster in individuals with DED than in
+normal eyes, which is assumed to be as a result of a greater rate of
+tear ﬁlm evaporation.
+(The cooling rate of the ocular surface, is faster, in DED individuals than normal eyes)
+(DED, has, a greater rate of tear film evaporation)
+
+
+The areas of ocular surface cooling and breakup were co-localized.
+(The areas of ocular surface cooling and breakup, were, co-localized)
+
+
+Keech et al., further reported that the variability of tear osmolarity of normal subjects was indistinguishable from the analytical variability of measurements of a control solution of known osmolarity, suggesting that normal individuals retain an effective tear ﬁlm with little variation from blink-to-blink and day-to-day.
+(Normal individuals, retain, an effective tear film with little variation)
+
+
+
+In contrast, the tears of individuals with DED demonstrated increasing variation and the authors speculated that this was due to “a combination of chaotic or incomplete mixing between blinks and spatially variable tear ﬁlm breakup, leading to a stochastically increased evaporation rate.”
+(Individuals with DED, has, the increasing variation tear film)
+
+
+Indeed variability of osmolarity has been recommended to be a
+feature that clinicians should speciﬁcally be looking for when
+trying to identify patients with DED. 
+(Variability of osmolarity, has been recommended, for clinicians when trying to identify patients with DED)
+
+The tear ﬁlm evaporation rate is used as an indicator of tear ﬁlm stability.
+(The tear film evaporation rate, is used as, an indicator of tear film stability)
+
+
+Although not mentioned directly within the deﬁnition of DED,
+the tear ﬁlm volume is important for ocular surface health and its
+loss of homeostasis (aqueous deﬁciency) may be at the same time a
+key pathogenic mechanism and a diagnostic sign in DED patients,
+independent of evaporative dry eye.
+(Tear film volume, is important, for ocular surface health)
+(The loss of tear film volume homeostasis, may be, a key pathogenic mechanism in DED patients)
+(The loss of tear film volume homeostasis, may be, a diagnostic sign in DED patients)
+(The loss of tear film volume homeostasis, is independent of, evaporative dry eye)
+
+
+The quantitative assessment of the tear menisci is, at present, the most direct approach to study the tear ﬁlm volume. 
+(The most direct approach to study the tear film volume, is, the quantitative assessment of the tear menisci)
+
+OCT assessment of the tear meniscus, has been extensively studied in the last ten years. 
+(OCT assessment of the tear meniscus, has been extensively studied, in the last ten years)
+
+
+Upper and lower TMH, TMA, TMR and tear meniscus depth are, at present, the most commonly studied parameters. 
+(Upper and lower TMH; TMA; TMR and tear meniscus depth, are, the most commonly studied parameters)
+
+In clinical practice, an arbitrary cut-off value of 20 mm has been adopted to differentiate DED with and without aqueous deﬁciency using the Phenol Red Thread (PRT) test.
+(Cut-off value of 20mm of the PRT test, has been adopted, to differentiate DED with and without aqueous deficiency)
+
+Hyper-osmolarity of the tear ﬁlm on the ocular surface causes a signiﬁcant increase in interferon gamma, in the absence of large increases from other Th1, Th2 and Th17 cytokines, which can induce epithelial cell apoptosis through the JAK/STAT signalling pathway to induce cell death. 
+(Hyper-osmolarity of the tear ﬁlm on the ocular surface, causes, a signiﬁcant increase in interferon gamma)
+(interferon gamma, induces, epithelial cell apoptosis through the JAK/STAT signalling pathway to induce cell death)
+
+Tear osmolarity has been demonstrated to have the highest correlation to disease severity of clinical DED tests [11], and has been frequently reported as the single best metric to diagnose and classify DED. 
+(Tear osmolarity, has been demonstrated to, the highest correlation to disease severity of clinical DED tests)
+(Tear osmolarity, has been reported as, the single best metric to diagnose and classify DED)
+
+Osmolarity generally increases with disease severity, classiﬁed as normal (302.2 ± 8.3 mOsm/L), mild-to-moderate (315.0 ± 11.4 mOsm/L) and severe (336.4 ± 22.3 mOsm/L).
+(Osmolarity generally, increases with, disease severity)
+(Osmolarity generally, classiﬁed as, normal (302.2 ± 8.3 mOsm/L)
+(Osmolarity generally, classiﬁed as, mild-to-moderate (315.0 ± 11.4 mOsm/L) 
+(Osmolarity generally, classiﬁed as, severe (336.4 ± 22.3 mOsm/L)
+
+More severely affected subjects exhibit both an increased average and increased variability between eyes and between visits, making the marker heteroscedastic.
+(More severely affected subjects, exhibit, an increased average between eyes and between visits)
+(More severely affected subjects, exhibit, an increased variability between eyes and between visits)
+
+
+Various cut-off values for DED have been proposed in the literature, from 305 mOsm/L, to 316 mOsm/L, with reported sensitivities ranging from 64% to 91%, speciﬁcities from 78% to 96%, and positive predictive alues ranging from 85% to 98.4%.
+(Various cut-off values for DED, have been proposed, from 305 mOsm/L to 316 mOsm/L)
+
+
+These data support the 316 mOsm/L cut-off as a speciﬁc threshold to better differentiate moderate to severe DED, or when used in parallel with other speciﬁc tests, while the 308 mOsm/L cut-off has become a widely accepted, more sensitive, threshold for use in routine practice to help diagnose mild to moderate subjects.
+(the 308 mOsm/L cut-off, has become to, help diagnose mild to moderate subjects)
+
+
+Ferning occurs when the tear ﬁlm is dried, typically on a glass plate.
+(Ferning, occurs, when the tear ﬁlm is dried)
+
+
+As the pattern of the tear fern depends on the composition of the tear sample, tear ferning may be a simple test for tear ﬁlm quality at a gross biochemical level.
+(tear ferning, may be, a simple test for tear ﬁlm quality at a gross biochemical level)
+
+
+Seven to 10 min under normal room temperature (20e26 (cid:5)C) and room humidity (RH up to 50%) has been recommended.
+(Seven to 10 min under normal room temperature (20e26 (cid:5)C), has been recommended)
+(Seven to 10 min under room humidity (RH up to 50%), has been recommended)
+
+The crystallisation begins with the formation of a nucleus, due to the supersaturation of ions with solvent evaporation at the peripheral edge of the drop.
+(The crystallisation, begins with, the formation of a nucleus) 
+
+
+Healthy tear samples produce compact, dense ferning patterns, while in dry eye samples, the pattern is fragmented or absent.
+(ferning patterns in dry eye samples, is, fragmented or absent)
+
+
+Electrolytes may play a role in ferning as hyperosmolarity has been found to result in deteriorated ferns.
+(Electrolytes as hyperosmolarity, has been found to, result in deteriorated ferns)
+
+It has a high reported sensitivity and speciﬁcity in Sj€ogren's syndrome, and rheumatoid-induced keratoconjunctivitis sicca, but the results are more variable in DED.
+(sensitivity and speciﬁcity in Sj€ogren's syndrome, is， more variable in DED)
+(sensitivity and speciﬁcity in rheumatoid-induced keratoconjunctivitis sicca, is， more variable in DED)
+
+Tear ferning is correlated with tear ﬁlm volume and weakly with tear ﬁlm stability, but seems to be independent of individual tear proteins.
+(Tear ferning, is correlated with, tear ﬁlm volume and weakly with tear ﬁlm stability)
+(Tear ferning, seems to be, independent of individual tear proteins)
+
+
+Tear ferning changes with contact lens wear have been found to have a moderately high sensitivity (78.4%) and speciﬁcity (78.4%) for predicting contact lens tolerance in a clinical setting.
+(Tear ferning changes with contact lens wear, have been found to, predict contact lens tolerance)
+
+However, other studies have found that the tear ferning test had a poor correlation with tear ﬁlm stability and symptoms in contact lens wearers.
+(the tear ferning test, had, a poor correlation with tear ﬁlm stability and symptoms in contact lens wearers)
+
+
+Despite some potential diagnostic ability, the underlying mechanisms responsible for producing tear ferning and their interaction with dry eye sub-types are still poorly understood and hence this cannot currently be recommended as a diagnostic test.
+(the underlying mechanisms responsible for producing tear ferning and their interaction with dry eye sub-types, are, poorly understood)
+(the underlying mechanisms responsible for producing tear ferning and their interaction with dry eye sub-types, cannot, be recommended as a diagnostic test)
+
+With respect to osmolarity measurement, recent data have reinforced that two values are important to note in tear testing: the higher value of the two eyes, which is considered more indicative of the DED process, and the difference in value between the two eyes, which provides insight about the instability of the tear ﬁlm.
+(the higher osmolarity measurement value of the two eyes, is considered, more indicative of the DED process) 
+(the difference in osmolarity measurement value between the two eyes, provides insight about, the instability of the tear ﬁlm)
+
+
+Using the maximum value between both eyes has been shown to provide a higher dynamic range and larger observable change after effective therapy than using the average or single eye, and this approach is approved by the FDA for commercially available tests.
+(Using the maximum osmolarity measurement value between both eyes, has been shown to, provide a higher dynamic range and larger observable change after effective therapy)
+
+
+
+Moreover, a longitudinal study showed that tear os-molarity is the least variable of all the common signs for DED over clinically relevant time scales, which might seem counterintuitive, since tear osmolarity has the highest frequency of variation, changing blink-to-blink depending on the stability of the tear ﬁlm and severity of disease, however the actual amplitude of variation is strongly dependent on disease severity. 
+(tear os-molarity, is, the least variable of all the common signs for DED)
+(the actual amplitude of variation, is, dependent on disease severity)
+
+
+Inter-eye differences of normal, mild to moderate and severe DED patients were 6.9 ± 5.9 mOsm/L, 11.7 ± 10.9 mOsm/L, and 26.5 ± 22.7 mOsm/L, respectively.
+(Inter-eye differences of normal DED patients, were, 6.9 ± 5.9 mOsm/L)
+(Inter-eye differences of mild to moderate DED patients, were,11.7 ± 10.9 mOsm/L)
+(Inter-eye differences of severe DED patients, were, 26.5 ± 22.7 mOsm/L)
+
+ 
+The low variation of normal subjects contributes to the high speciﬁcity of the marker and makes it a good candidate for parallelization and apeutic monitoring.
+(The low variation of normal subjects, contributes to, the high speciﬁcity of the marker)
+(The low variation of normal subjects, is, for parallelization and apeutic monitoring)
+
+Accordingly, normal subjects don't display elevated osmolarity, so a value over 308 mOsm/L in either eye or a difference between eyes (cid:2)8 mOsm/L are good in dicators of a departure from tear ﬁlm homeostasis and represent a diseased ocular surface.
+(normal subjects, don't display, elevated osmolarity)
+(a value over 308 mOsm/L in either eye or a difference between eyes > 8 mOsm/L, are good indicators of, a departure from tear ﬁlm homeostasis and represent a diseased ocular surface)
+(a value over 308 mOsm/L in either eye or a difference between eyes > 8 mOsm/L, represent, a diseased ocular surface)
+
+
+Punctate staining of the ocular surface is a feature of many ocular diseases and instilled dyes are used extensively in the diagnosis and management of DED.
+(Punctate staining of the ocular surface, is, a feature of many ocular diseases)
+(instilled dyes, are used in, the diagnosis and management of DED)
+
+In addition, the distribution of micropunctate staining may provide an etiological clue. 
+(the distribution of micropunctate staining, may provide, an etiological clue)
+
+
+The most frequently used dyes are sodium ﬂuorescein, rose bengal, and lissamine green.
+(The most frequently used dyes, are, sodium ﬂuorescein)
+(The most frequently used dyes, are, rose bengal)
+(The most frequently used dyes, are, lissamine green)
+
+The clinical appearance of ﬂuorescein staining occurs whenever viable cells experience a compromise to their integrity such as a disruption in superﬁcial cell tight junctions or defective glycocalyx.
+(The clinical appearance of ﬂuorescein staining, occurs, a compromise to viable cells' integrity)
+
+
+It is suggested that there is some weak background ﬂuorescence of healthy corneal epithelial cells.
+(there, is, some weak background ﬂuorescence of healthy corneal epithelial cells)
+
+
+Rose bengal stains ocular surface epithelial cells that are unprotected by mucin or glycocalyx, as well as dead or degenerated cells.
+(Rose bengal stains ocular surface epithelial cells, are unprotected by, mucin or glycocalyx)
+(Rose bengal stains ocular surface epithelial cells, are unprotected by, dead or degenerated cells)
+
+However, it stings on instillation and induces reﬂex tearing. 
+(Rose bengal stains ocular surface epithelial cells, stings on, instillation)
+(Rose bengal stains ocular surface epithelial cells, induces, reﬂex tearing)
+
+In addition, it has been shown to suppress human corneal epithelial cell viability in vitro.
+(Rose bengal stains ocular surface epithelial cells, suppress, human corneal epithelial cell viability in vitro)
+
+On the other hand, lissamine green is less toxic to the ocular surface and consequently is as well tolerated as ﬂuorescein;
+(lissamine green, is less toxic to, the ocular surface)
+(lissamine green, is, as well tolerated as ﬂuorescein)
+
+it stains epithelial cells only if the cell membrane is damaged (a vital dye), irrespective of the presence of mucin, whereas rose bengal, because of its cytotoxicity, produces staining irrespective of the state of cell health, once mucin is absent;
+(lissamine green, stains, epithelial cells with damaged cell membrane)
+
+
+therefore lissamine green has largely replaced the use of rose bengal in evaluating ocular surface disorders.
+(lissamine green, has largely replaced, the use of rose bengal in evaluating ocular surface disorders)
+
+
+There have been also several reports using mixtures of these dyes for simultaneous staining of the cornea and conjunctiva.
+(several reports, use, mixtures of these dyes for simultaneous staining of the cornea and conjunctiva)
+
+
+A solution of 2% ﬂuorescein and 1% lissamine green has been found to be optimal in terms of comfort and staining efﬁcacy, but is not commercially available.
+(A solution of 2% ﬂuorescein and 1% lissamine green, has been found to, be optimal in terms of comfort and staining efﬁcacy)
+
+
+Sequential staining and/or using more than one paper strip will increase the likelihood of observing ocular surface damage.
+(Sequential staining and/or using more than one paper strip, will increase, the likelihood of observing ocular surface damage)
+
+
+Fluorescein has a peak excitation wavelength of 495 nm, whereas the commonly used ‘cobalt blue’ light ﬁlters of slit lamp biomicroscopes have a peak of around 450 nm.
+(Fluorescein, has, a peak excitation wavelength of 495 nm)
+(‘cobalt blue’ light ﬁlters of slit lamp biomicroscopes, have, a peak of around 450 nm)
+
+
+The ﬂuorescence peak is around 515 nm within the pH range of the tear ﬁlm, so the yellow barrier ﬁlter required for optimum observation should band pass at around 500 nm.
+(The ﬂuorescence peak, is, around 515 nm within the pH range of the tear ﬁlm)
+(the yellow barrier ﬁlter required for optimum observation, should band pass, at around 500 nm)
+
+
+For lissamine green, a red ﬁlter (567e634 nm) to enhance contrast against the sclera may enhance staining visibility. 
+(a red ﬁlter (567e634 nm) to enhance contrast against the sclera, may enhance, lissamine green staining visibility)
+
+
+For consistent recording of staining severity of the ocular surface, there are various grading systems including the van Bijsterveld system, the National Eye Institute/Industry Workshop guidelines, the cllaborative Longitudinal Evaluation of Keratoconus (CLEK) schema, the Oxford Scheme, the areaedensity combination index, and the Sj€ogren's International Collaborative Clinical Alliance ocular staining score.
+(various grading systems, include, the van Bijsterveld system for consistent recording of staining severity of the ocular surface)
+(various grading systems, include, the National Eye Institute/Industry Workshop guidelines for consistent recording of staining severity of the ocular surface)
+(various grading systems, include, the cllaborative Longitudinal Evaluation of Keratoconus (CLEK) schema for consistent recording of staining severity of the ocular surface)
+(various grading systems, include, the Oxford Scheme for consistent recording of staining severity of the ocular surface)
+(various grading systems, include, the areaedensity combination index for consistent recording of staining severity of the ocular surface)
+(various grading systems, include, the Sj€ogren's International Collaborative Clinical Alliance ocular staining score for consistent recording of staining severity of the ocular surface)
+
+Corneal and conjunctival staining have been shown to be informative markers of disease severity in severe DED, however, staining of the ocular surface in mild/moderate DED showed poor correlation with disease severity.
+(Corneal and conjunctival staining, have been shown to be, informative markers of disease severity in severe DED)
+(staining of the ocular surface in mild/moderate DED, showed, poor correlation with disease severity)
+
+
+Therefore, observing staining of the cornea and conjunctiva is considered an important aspect in the clinical analysis of severe DED.
+(observing staining of the cornea and conjunctiva, is considered, an important aspect in the clinical analysis of severe DED)
+
+Impression cytology is a relatively simple and practical technique that has been used in the diagnosis of the ocular surface disorders such as DED, limbal stem-cell deﬁciency, ocular surface neoplasia, and speciﬁc viral infections.
+(Impression cytology, is, a relatively simple and practical technique)
+(Impression cytology, has been used in, the diagnosis of the ocular surface disorders such as DED, limbal stem-cell deﬁciency, ocular surface neoplasia, and speciﬁc viral infections)
+
+
+During the past decade, it has become standard to study squamous metaplasia and goblet cell density of the conjunctiva for the diagnosis and monitoring of DED.
+(it, has become, standard to study squamous metaplasia and goblet cell density of the conjunctiva for the diagnosis and monitoring of DED)
+
+
+Cells from the ﬁrst to third most superﬁcial layers of the epithelium are removed by application of cellulose acetate ﬁlters or biopore membranes, and the cells can be subsequently analyzed by various methods including microscopy, immunoblotting analysis, polymerase chain reaction, and ﬂow cytometry, depending on the objective of the investigation.
+(Cells from the ﬁrst to third most superﬁcial layers of the epithelium, are removed by, application of cellulose acetate ﬁlters or biopore membranes)
+(the cells, can be analyzed by, various methods including microscopy)
+(the cells, can be analyzed by, immunoblotting analysis)
+(the cells, can be analyzed by, polymerase chain reaction)
+(the cells, can be analyzed by, ﬂow cytometry)
+
+Speciﬁc examination procedures for impression cytology are described elsewhere.
+(Speciﬁc examination procedures for impression cytology, are described, elsewhere)
+
+For analyzing conjunctival impression cytology, several squamous metaplasia grading systems based on qualitative or quantitative cytological criteria are applied.
+(several squamous metaplasia grading systems based on qualitative or quantitative cytological criteria, are applied for, analyzing conjunctival impression cytology)
+
+Among them, the Nelson classiﬁcation system, considering the density, morphology, cytoplasmic staining afﬁnity and nucleus/cytoplasm ratio of conjunctival epithelial and goblet cells, remains widely used.
+(the Nelson classiﬁcation system, remains, used)
+
+Lid-parallel conjunctival folds (LIPCOF) are folds in the lateral, lower quadrant of the bulbar conjunctiva, parallel to the lower lid margin.
+(Lid-parallel conjunctival folds (LIPCOF), are folds in, the lateral)
+(Lid-parallel conjunctival folds (LIPCOF), are folds in, lower quadrant of the bulbar conjunctiva)
+(Lid-parallel conjunctival folds (LIPCOF), are folds in, parallel to the lower lid margin)
+
+
+LIPCOF may represent the ﬁrst mild stages of conjunctivochalasis and thus share the same aetiology, but they display slightly different characteristics clinically.
+(LIPCOF, may represent, the ﬁrst mild stages of conjunctivochalasis)
+
+
+The cross-sectional area of LIPCOF is much smaller.
+(The cross-sectional area of LIPCOF, is, smaller)
+
+LIPCOF do not occur centrally as does conjunctivochalasis, and appear unrelated to age.
+(LIPCOF, do not occur as, does conjunctivochalasis)
+(LIPCOF, appear unrelated to, age)
+
+While conjunctivochalasis can be induced or increased by forceful blinks or digital pressure towards the lid margin or gaze, this does not appear to happen in the case of LIPCOF.
+(conjunctivochalasis, can be induced or increased by, forceful blinks or digital pressure towards the lid margin or gaze)
+
+LIPCOF occur behind the temporal and nasal tear meniscus along 2/3 of the total length of the inferior tear meniscus, and may cause tear meniscus height measurements to be under-estimated. 
+(LIPCOF, occur, behind the temporal and nasal tear meniscus along 2/3 of the total length of the inferior tear meniscus)
+(LIPCOF, may cause, tear meniscus height measurements to be under-estimated)
+
+Decreased mucin production is associated with the severity of LIPCOF, and LIPCOF are signiﬁcantly correlated with lid wiper epitheliopathy.
+(Decreased mucin production, is associated with, the severity of LIPCOF)
+(LIPCOF, are correlated with, lid wiper epitheliopathy)
+
+LIPCOF may be related to completeness of the blink, blink speed and tear ﬁlm viscosity.
+(LIPCOF, may be related to, completeness of the blink)
+(LIPCOF, may be related to, blink speed)
+(LIPCOF, may be related to, tear ﬁlm viscosity.)
+
+Patients with increased LIPCOF grades are likely to suffer from DED.
+(Patients with increased LIPCOF grades, are likely to, suffer from DED)
+
+One study, showed that combining nasal LIP-COF and NIBUT using an algorithm appeared to be the most predictive DED test combination.
+(combining nasal LIP-COF and NIBUT using an algorithm, appeared to be, the most predictive DED test combination)
+
+Sensitivity of LIPCOF Sum (nasal þ temporal LIPCOF) to discriminate between normal and symptomatic DED patients was reported to be 70%, and speciﬁcity was reported to be 91%, for a cut-off value of 2, using a revised LIPCOF grading scale, where the LIPCOF score is derived from the number of folds rather than the height of the folds.
+(Sensitivity of LIPCOF Sum (nasal þ temporal LIPCOF) to discriminate between normal and symptomatic DED patients, was reported to be, 70%)
+(speciﬁcity of LIPCOF Sum (nasal þ temporal LIPCOF) to discriminate between normal and symptomatic DED patients, was reported to be, 91%)
+(the LIPCOF score, is derived from, the number of folds rather than the height of the folds)
+
+Another group evaluated a medium predictive ability of temporal LIPCOF using the H€oh et al. fold height-based grading scale, and deﬁned the cut-off value as 2, giving a sensitivity of 52% and speciﬁcity of 64%.
+(using the H€oh et al. fold height-based grading scale, evaluate, a medium predictive ability of temporal LIPCOF)
+(using the H€oh et al. fold height-based grading scale, deﬁned, the cut-off value as 2)
+(using the H€oh et al. fold height-based grading scale, give, a sensitivity of 52%)
+(using the H€oh et al. fold height-based grading scale, give, a speciﬁcity of 64%.
+
+LIPCOF are observed, without ﬂuorescein, on the bulbar conjunctiva in the area perpendicular to the temporal and nasal limbus, above the lower lid (temporal and nasal LIPCOF, respectively), with a slit-lamp microscope using ~25(cid:4) magniﬁcation.
+(LIPCOF, are observed, on the bulbar conjunctiva in the area perpendicular to the temporal and nasal limbus without ﬂuorescein with a slit-lamp microscope using ~25(cid:4) magniﬁcation)
+(LIPCOF, are observed, above the lower lid (temporal and nasal LIPCOF, respectively) with a slit-lamp microscope using ~25 magniﬁcation)
+
+LIPCOF can be classiﬁed by different grading scales, such as a recent scale counting the number of folds.
+(LIPCOF, can be classiﬁed by, different grading scales)
+
+
+Researchers have also used OCT and Scheimpﬂug photography to observe LIPCOF.
+(Researchers, have used, OCT and Scheimpﬂug photography to observe LIPCOF)
+
+Using these instruments, additional criteria such as cross-sectional area of LIPCOF or LIPCOF coverage by the tear meniscus can be evaluated.
+(cross-sectional area of LIPCOF or LIPCOF coverage by the tear meniscus, can be, evaluated)
+
+Conjunctival shrinkage has been proposed as a diagnostic feature of dry eyes, and has been shown to occur more in patients with Table 4  Example of a LIPCOF grading scale [235].
+(Conjunctival shrinkage, has been proposed as, a diagnostic feature of dry eyes)
+
+
+IVCM is a non-invasive technique that allows the evaluation of signs of ocular surface damage in DED at a cellular level, including decreased corneal (apex and lower periphery), and conjunctival epithelial cell density, conjunctival squamous metaplasia (increased mean individual epithelial cell area, decreased nucleocytoplasmic ratio and goblet cell density), and corneal nerve changes (decreased sub-basal nerve density, increased tortuosity and increased number of bead-like formations).
+(IVCM, is, a non-invasive technique)
+(IVCM, allows, the evaluation of signs of ocular surface damage in DED at a cellular level)
+
+
+Laser scanning IVCM allows easy identiﬁcation of conjunctival goblet cells (although some concerns have been reported with regard to evaluation of the tarsal region), suggesting it may be a valuable tool in assessing and monitoring DED-related ocular surface damage.
+(Laser scanning IVCM, allows, easy identiﬁcation of conjunctival goblet cells)
+(Laser scanning IVCM, may be, a valuable tool in assessing and monitoring DED-related ocular surface damage)
+
+
+The IVCM approach seems less invasive, but as effective as impression cytology, however it has not yet been widely adopted in clinical practice and its predictive ability in the diagnosis of DED is unknown.
+(The IVCM approach, seems, less invasive)
+(The IVCM approach, has not been adopted in, clinical practice)
+(The IVCM approach's predictive ability in the diagnosis of DED, is unknown)
+
+Cochet-Bonnet or non-contact air-jet esthesiometers have been employed to evaluate ocular surface sensitivity.
+(Cochet-Bonnet or non-contact air-jet esthesiometers, have been employed to evaluate, ocular surface sensitivity)
+
+Loss of corneal sensation can give rise to severe corneal epithelial disorders such as neurotrophic keratopathy.
+(Loss of corneal sensation, can give rise to, severe corneal epithelial disorders such as neurotrophic keratopathy)
+
+The palpebral conjunctival sensitivity appears to be more critical than corneal sensitivity when assessing DED.
+(The palpebral conjunctival sensitivity, appears to be, more critical than corneal sensitivity when assessing DED)
+
+Corneal esthesiometry is weakly correlated to other DED tests, but increases with severity of the disease and has achieved a reported speciﬁcity of 96%, but a sensitivity of just 19%.
+(Corneal esthesiometry, is correlated to, other DED tests)
+(Corneal esthesiometry, increases with, severity of the disease)
+(Corneal esthesiometry, has achieved, a reported speciﬁcity of 96% and a sensitivity of just 19%)
+
+While corneal staining is perhaps a later stage feature of DED, combination staining with ﬂuorescein and lissamine green instilled by a moistened and saturated ﬁlter paper strip to highlight corneal respectively and conjunctival/eyelid margin tissue damage, is recommended as the most appropriate therefore important for an MMP diagnostic test to detect enzyme activity levels and not just total tear protein levels.
+(corneal staining, is, a later stage feature of DED)
+(combination staining with ﬂuorescein and lissamine green, instilled by, a moistened and saturated ﬁlter paper strip to highlight corneal respectively and conjunctival/eyelid margin tissue damage)
+(an MMP diagnostic test, is to detect enzyme activity levels)
+(an MMP diagnostic test, is not, total tear protein levels)
+
+One development is the availability of a commercial ‘point of care’ diagnostic device (InﬂammaDry , Rapid Pathogen Screening, Inc, Sarasota, FL, USA) which assays tear MMP-9 levels in 10 min.
+(a commercial ‘point of care’ diagnostic device, assays, tear MMP-9 levels in 10 min)
+
+In its current form, this assay produces a dichotomous outcome, with levels above 40 ng/ml producing a positive result, and is non-speciﬁc to the source of ocular surface inﬂammation.
+(a commercial ‘point of care’ diagnostic device, assay, produces a dichotomous outcome with levels above 40 ng/ml producing a positive result)
+(a commercial ‘point of care’ diagnostic device, is, non-speciﬁc to the source of ocular surface inﬂammation)
+
+The levels of tear cytokines and chemokines are important and reﬂect the level of epithelial disease.
+(The levels of tear cytokines and chemokines, are, important)
+(The levels of tear cytokines and chemokines, reﬂect, the level of epithelial disease)
+
+Certain cytokines can highlight a speciﬁc disease process, for example, elevation of Th1 and Th17 subclasses of cytokines suggest involvement of particular T lymphocyte differentiation pathways in the disease. 
+(Certain cytokines, can highlight, a speciﬁc disease process)
+(elevation of Th1 and Th17 subclasses of cytokines, suggest, involvement of particular T lymphocyte differentiation pathways in the disease)
+
+
+Elevation of tear Th2 cytokines, on the other hand, may suggest a more allergic-based disease, although recent evidence suggests various aspects of T cell Th1, Th2 and Th17 exist across aqueous deﬁcient, evaporative and mixed forms of DED, with a propensity towards Th1 type T cell responses as a more global indicator of DED.
+(Elevation of tear Th2 cytokines, may suggest, a more allergic-based disease)
+(various aspects of T cell, exist, across aqueous deﬁcient forms of DED)
+(various aspects of T cell, exist, across evaporative forms of DED)
+(various aspects of T cell, exist, across mixed forms of DED)
+
+Since collection of tear ﬂuid is relatively non-invasive compared to biopsies or venipuncture for serum assays, it is an attractive idea to include these as diagnostic tools.
+(collection of tear ﬂuid, is, non-invasive compared to biopsies or venipuncture for serum assays)
+
+However, it has been found that tear IL-10 and IL-1b levels had signiﬁcant inter-day variations, while epidermal growth factor, fractalkine, IP-10 and vascular endothelial growth factor were consistently higher in the evening compared to the midday measurements.
+(tear IL-10 and IL-1b levels, had, signiﬁcant inter-day variations)
+(epidermal growth factor, was, higher in the evening compared to the midday measurements)
+(fractalkine, was, higher in the evening compared to the midday measurements)
+(IP-10, was, higher in the evening compared to the midday measurements)
+(vascular endothelial growth factor, was, higher in the evening compared to the midday measurements)
+
+
+Tear chemokines such as CXCL9, -10, -11, and CXCR3 are important in the tear ﬂuid, as they serve as ligands for speciﬁc chemokine receptors on immune cells.
+(Tear chemokines, are important in, the tear ﬂuid)
+(Tear chemokines, serve as, ligands for speciﬁc chemokine receptors on immune cells)
+
+The elevation of speciﬁc ligands may therefore imply the involvement of the speciﬁc lymphocytes in the ocular surface, without actually measuring the presence of these lymphocytes.
+(The elevation of speciﬁc ligands, may imply, the involvement of the speciﬁc lymphocytes in the ocular surface)
+
+
+The most commonly used ocular surface immune marker is HLA-DR expression, a Class-II MHC antigen, which indicates a loss of the normally immune-suppressed environment of the ocular surface.
+
+
+Epstein has recently published standard operating instructions for impression cytology, for use in clinics and in clinical trials [358].
+
+It was reported that sufﬁcient conjunctival epithelial cells could be harvested for the quantiﬁcation of HLA-DR using a suitable impression membrane, for example, the commercially available Eyeprim™ membrane (Opia Technology, Paris, France).
+(sufﬁcient conjunctival epithelial cells, could be harvested for, the quantiﬁcation of HLA-DR using a suitable impression membrane)
+
+
+
+Although the authors found increased expression of HLA-DR associated with increased clinical severity of DED, a comparison with six other studies showed that the normal levels of HLA-DR expression are very variable (ranging from 5% to 54%), and its correlation with traditional clinical signs of DED is weak.
+(increased expression of HLA-DR, associated with, increased clinical severity of DED)
+(the normal levels of HLA-DR expression, are, variable (ranging from 5% to 54%))
+(the normal levels of HLA-DR expression correlation with traditional clinical signs of DED, is, weak)
+
+This may suggest that not all DED cases are equally inﬂammatory, diagnostic technique for evaluating ocular surface damage.
+(not all DED cases, are, inﬂammatory)
+
+
+Inﬂammation is a recognized component of the pathophysiological mechanism of DED and has been proposed to offer a stable indicator of DED severity.
+(Inﬂammation, is, a recognized component of the pathophysiological mechanism of DED)
+(Inﬂammation, has been proposed to offer, a stable indicator of DED severity)
+
+
+However, inﬂammation is not speciﬁc to DED and can occur in other ocular or systemic disease.
+(inﬂammation, is not, speciﬁc to DED)
+(inﬂammation, can occur, in other ocular or systemic disease)
+
+
+In autoimmune disease, inﬂammation occurs in the eye as well as speciﬁc sites around the body, for example, the joints in rheumatoid arthritis.
+(inﬂammation, occurs, in the eye as well as speciﬁc sites around the body in autoimmune disease)
+
+
+Autoimmune serum markers, including SSA and SSB are most often evaluated in Sj€ogren syndrome.
+(Autoimmune serum markers, are evaluated in, Sj€ogren syndrome)
+
+
+Systemic investigations used to differentially diagnose the cause of inﬂammation might involve biopsy of salivary glands, ﬂow cytometry of peripheral mononuclear blood cells, radiology or imaging of joints.
+(Systemic investigations used to differentially diagnose the cause of inﬂammation, might involve, biopsy of salivary glands)
+(Systemic investigations used to differentially diagnose the cause of inﬂammation, might involve, ﬂow cytometry of peripheral mononuclear blood cells)
+(Systemic investigations used to differentially diagnose the cause of inﬂammation, might involve, radiology or imaging of joints)
+
+ 
+The most common clinical sign that is suggestive of ocular surface inﬂammation is conjunctival redness.
+(suggestive of ocular surface inﬂammation, is, conjunctival redness)
+
+
+Ocular redness can be easily detected with a pentorch or standard slit lamp biomicroscopic examination.
+(Ocular redness, can be detected with, a pentorch or standard slit lamp biomicroscopic examination)
+
+The matrix metalloproteinases (MMPs) are one of many classes of proteases secreted into the tears in DED.
+
+
+The level of MMPs reﬂect the loss of ocular surface barrier function, since MMPs can destroy tight junctions in the ocular surface epithelium.
+(The level of MMPs, reﬂect, the loss of ocular surface barrier function)
+(MMPs, can destroy, tight junctions in the ocular surface epithelium)
+
+MMPs are produced as inactive proenzymes and can be cleaved to become active enzymes.
+(MMPs, are produced as, inactive proenzymes)
+(MMPs, can be cleaved to become, active enzymes)
+
+Nevertheless, use of impression cytology can be helpful in the documentation of particular immune cells in speciﬁc contexts of DED.
+(use of impression cytology, can be, helpful in the documentation of particular immune cells in speciﬁc contexts of DED)
+
+
+For example, the quantiﬁcation of neutrophil involvement in Stevens Johnson syndrome has been published.
+
+
+Other relevant markers of apoptosis include CAM-1, CD14 cells.
+(markers of apoptosis, include, CAM-1)
+(markers of apoptosis, include, CD14 cells)
+
+
+Corneal sub-epithelial and stromal IVCM signs of inﬂammation have been hypothesized and studied in DED for over 10 years.
+(Corneal sub-epithelial and stromal IVCM signs of inﬂammation, have been hypothesized and studied in, DED for over 10 years)
+
+
+More recently, IVCM has allowed examination to be extended to a number of components of the ocular surface morpho-functional unit.
+(IVCM, has allowed examination to be extended to, a number of components of the ocular surface morpho-functional unit)
+
+
+Recent literature has shown signiﬁcant differences between patients with DED and controls, and among different types of DED, for many presumed inﬂammatory parameters, including corneal dendritic cells (DC), stromal hyper-reﬂective (activated) cells, conjunctival hyper-reﬂective roundish or ovoidal (inﬂammatory) cells, and meibomian gland acinar wall and inhomogeneous appearance between ‘slices’ (inﬂammatory inﬁltration).
+
+(many presumed inﬂammatory parameters, has shown differences between, patients with DED and controls)
+(many presumed inﬂammatory parameters, has shown differences between, among different types of DED)
+
+Some of these parameters have shown good repeatability and correlate with tear ﬁlm inﬂammatory mediators, and other signs of DED.
+(Some of these parameters, have shown, repeatability and correlate with tear ﬁlm inﬂammatory mediators)
+
+
+Inﬂamed ocular surfaces, in immunemediated diseases and in DED, show not only increased DC density, but also morphological DC changes, which may indicate cell maturation.
+(Inﬂamed ocular surfaces, show, increased DC density in immunemediated diseases and in DED)
+(Inﬂamed ocular surfaces, show, morphological DC changes)
+(Inﬂamed ocular surfaces, may indicate, cell maturation)
+
+
+In recent research, IVCM imaging of DCs in DED has been able to predict, as well as monitor, the response to anti-inﬂammatory drugs, and to detect sub-clinical ocular surface inﬂammation.
+(IVCM imaging of DCs in DED, has been able to, predict)
+(IVCM imaging of DCs in DED, monitor, the response to anti-inﬂammatory drugs)
+(IVCM imaging of DCs in DED, detect, sub-clinical ocular surface inﬂammation)
+
+As described, practitioners need to be aware that the ocular inﬂammation tests mentioned are not speciﬁc for DED.
+(the ocular inﬂammation tests mentioned, are not speciﬁc for, DED)
+
+
+For a clinical test to be acceptable, it should be readily performed without excessive demands on technical manpower or time.
+
+
+
+The technical challenges involved in assessment of tear protein levels should not be underestimated.
+(assessment of tear protein levels, should, not be underestimated)
+
+Only a very minute amount of tears can be sampled from DED patients, and since the linear range of many analytes is different, differential dilution of the collected tears may be necessary.
+(differential dilution of the collected tears, may be, necessary)
+
+
+
+For example, many tear cytokines and even MMPs tend to increase with age, and age speciﬁc upper limits of the normal values have not been published, thereby potentially limiting the usefulness of the tools as diagnostic devices.
+(many tear cytokines and even MMPs, tend to, increase with age)
+(age speciﬁc upper limits of the normal values, have not been, published)
+
+
+
+However, multiplexed cytokine systems are increasingly becoming available.
+(multiplexed cytokine systems, are, becoming available)
+
+
+
+
+Certain clinical tools have been available for a long time, but the recent vailability of a standard commercial platform, such as the ocular redness index within the Oculus Keratograph 5M software suggests that tools for measuring inﬂammation may now be within reach of many clinicians.
+(the ocular redness index within the Oculus Keratograph 5M software for measuring inﬂammation, may be, within reach of many clinicians)
+
+
+With the availability of newer immunosuppressive medications and trials concerning these drugs, it is logical that inﬂammation should be assessed.
+(inﬂammation, should be, assesse)
+
+The exact modality used may need to be varied depending on the pathway or target cell upon which the immunosuppressive drug acts, and such diagnostic tools should be used for reﬁning patient selection as well as monitoring after commencement of treatment.
+(The exact modality used, may need to be, varied depending on the pathway or target cell upon)
+(diagnostic tools, should be used for, reﬁning patient selection as well as monitoring after commencement of treatment)
+
+
+
+Anterior eyelid features, such as anterior blepharitis and demodex blepharitis, are differential diagnoses and comorbidities of DED rather than diagnostic criteria.
+(Anterior eyelid features, are, differential diagnoses and comorbidities of DED rather than diagnostic criteria)
+
+
+A small portion of the marginal conjunctiva of the upper and lower lid acts as a wiping surface to spread the tear ﬁlm over the ocular surface.
+(A small portion of the marginal conjunctiva of the upper and lower lid, acts as, a wiping surface to spread the tear ﬁlm over the ocular surface.)
+
+This contacting surface at the lid margin has been termed the 'lid wiper'. 
+(contacting surface at the lid margin, has been termed, the 'lid wiper')
+
+
+The normal lid wiper is rich in goblet cells, and appears to be the most sensitive conjunctival tissue of the ocular surface.
+(The normal lid wiper, is rich in, goblet cells)
+(The normal lid wiper, appears to be, the most sensitive conjunctival tissue of the ocular surface)
+
+Lid wiper staining with dyes such as ﬂuorescein and lissamine green, which occurs principally in DED patients, has been termed lid wiper epitheliopathy (LWE) or upper lid margin staining.
+(Lid wiper staining with dyes such as ﬂuorescein and lissamine green, has been termed, lid wiper epitheliopathy (LWE) or upper lid margin staining)
+
+It has been proposed that LWE is related to increased friction (direct contact between surfaces) throughout blinks, although modelling of the tribology suggests that tear ﬁlm viscosity-induced hydrodynamic forces at the start of each blink are the principal cause.
+(LWE, is related to increased, friction throughout blinks)
+(tear ﬁlm viscosity-induced hydrodynamic forces at the start of each blink, are, the principal cause)
+
+Boundary lubrication may therefore play a key role in reducing dry eye.
+(Boundary lubrication, may play, a key role in reducing dry eye)
+
+LWE occurs on the upper and lower lids, but most studies report only upper LWE.
+(LWE, occurs, on the upper and lower lids)
+
+Lower LWE in contact lens wearers has been found to be associated with DED symptoms in some studies, but not others.
+(Lower LWE in contact lens wearers, has been found to be associated with, DED symptoms in some studies)
+
+
+Shiraishi et al. reported a higher prevalence of LWE in younger than older contact lens wearers.
+(a prevalence of LWE in younger is, higher than older contact lens wearers)
+
+
+The predictive ability of upper LWE is reported to be 48% (sensitivity) and 96% (speciﬁcity) in non-lens wearers using a cut-off value of grade 1.
+(The predictive ability of upper LWE, is reported to be, 48% (sensitivity) and 96% (speciﬁcity) in non-lens wearers)
+
+In their protocols, Korb et al. recommend the use of ﬂuorescein and lissamine green in combination to stain LWE with repeated instillation of lissamine green before the evaluation of LWE.
+(the use of ﬂuorescein and lissamine green in combination, stain, LWE with repeated instillation of lissamine green before the evaluation of LWE)
+
+However in another study, LWE increased following repeated lid eversion, but not dual instillation.
+(LWE, increased, following repeated lid eversion)
+
+LWE can be observed immediately adjacent to the lid margin of the everted eyelid using a slit lamp biomicroscope and is most commonly classiﬁed by combining the extent of its staining, in terms of length in mm, and width relative to the lid margin width.
+(LWE, can be observed adjacent to, the lid margin of the everted eyelid using a slit lamp biomicroscope)
+(LWE, can be observed adjacent to, is most classiﬁed by, combining the extent of its staining)
+
+
+Another grading system has proposed observing the area and staining pattern.
+(Another grading system, has proposed, observing the area and staining pattern)
+
+A more advanced method may be to use confocal microscopy, where small hyperreﬂective dots, assumed to highlight inﬂammation, have been observed in lens wearers wearing high coefﬁcient of friction lenses.
+(confocal microscopy, have been observed in, lens wearers wearing high coefﬁcient of friction lenses)
+
+
+Oily substances spread to form a thin layer on the surface of water.
+(Oily substances, spread to form, a thin layer on the surface of water)
+
+Exposure of such an oily layer to adequate light results in the generation of an interferometric fringe pattern from interference from the front and back surface refractive index change reﬂections.
+(Exposure of such an oily layer to adequate light results in the generation of an interferometric fringe pattern from interference from the front and back surface refractive index, change, reﬂections)
+
+The superﬁcial oily layer of the tear ﬁlm is thought to retard evaporation of the tears, and, with the rest of the tear ﬁlm, provides an optically smooth surface over the cornea.
+(The superﬁcial oily layer of the tear ﬁlm, is thought to, retard evaporation of the tears)
+(with the rest of the tear ﬁlm, provides, an optically smooth surface over the cornea)
+
+The lipids produced by the meibomian glands usually distribute dynamically from the inferior to the superior region over the ocular surface and then stabilize shortly thereafter.
+(The lipids produced by the meibomian glands, distribute from, the inferior to the superior region over the ocular surface)
+(The lipids produced by the meibomian glands, stabilize)
+
+In conjunction with the surface reﬂection pattern and dynamics, interferometry can allow the thickness of the lipid layer of the tear ﬁlm to be estimated. 
+(interferometry, can allow, the thickness of the lipid layer of the tear ﬁlm to be estimated)
+
+
+
+Since this initial analysis, single-wavelength interferometry has been applied to such measurements.
+(single-wavelength interferometry, has been applied to, such measurements)
+
+
+Guillon et al. developed a clinical interferometer (Tearscope; Keeler, Windsor, UK) that uses broadband illumination to visualize the kinetics of the lipid layer of the tear ﬁlm, showing that different patterns of interferometric fringe are generated according to the lipid layer thickness.
+(a clinical interferometer, uses, broadband illumination to visualize the kinetics of the lipid layer of the tear ﬁlm)
+(different patterns of interferometric fringe, are, generated according to the lipid layer thickness)
+
+Goto et al. developed an algorithm for quantifying lipid layer thickness from interferometric fringe patterns.
+(Goto et al., developed, an algorithm for quantifying lipid layer thickness from interferometric fringe patterns)
+
+The DR-1 system was also developed as an interferometer for evaluation of the kinetics of the lipid layer of the tear ﬁlm in both normal subjects and patients with DED.
+(The DR-1 system, was developed as, an interferometer for evaluation of the kinetics of the lipid layer of the tear ﬁlm in both normal subjects and patients with DED)
+
+This system has revealed that lipid layer kinetics are related to the tear ﬁlm condition or blink pattern. 
+(lipid layer kinetics, are related to, the tear ﬁlm condition or blink pattern)
+
+
+ferometry is now an established technique for clinical examination that allows visualization of the kinetics of the oily layer of the tear ﬁlm.
+(ferometry, is, an established technique for clinical examination)
+(ferometry, allows, visualization of the kinetics of the oily layer of the tear ﬁlm)
+
+
+The LipiView interferometer was recently introduced as the ﬁrst clinically available instrument to allow automated measurement of the thickness of the lipid layer of the tear ﬁlm.
+(The LipiView interferometer, was introduced as, the ﬁrst clinically available instrument to allow automated measurement of the thickness of the lipid layer of the tear ﬁlm.)
+
+This instrument has a sensitivity of 65.8% and a speciﬁcity of 63.4% using a cut-off value of 75-nm for the detection of MGD, but its diagnostic contribution to DED has not been established.
+(This instrument, has, a sensitivity of 65.8% and a speciﬁcity of 63.4% using a cut-off value of 75-nm for the detection of MGD)
+
+
+This latter system relies on illumination with a helium-neon laser, and analysis by fast Fourier transform, to evaluate surface irregularities of the tear ﬁlm related to breakup of the lipid layer.
+(This latter system, relies on, illumination with a helium-neon laser)
+(This latter system, analysis, by fast Fourier transform to evaluate surface irregularities of the tear ﬁlm related to breakup of the lipid layer
+
+
+
+Meibography allows observation of the silhouette of the meibomian gland morphological structure.
+(Meibography, allows, observation of the silhouette of the meibomian gland morphological structure)
+
+
+The original technique involved white-light transillumination of everted eyelids from the skin aspect, with imaging based on black-and-white ﬁlm, infrared ﬁlm, and a near-infrared charge-coupled device (CCD) video camera.
+(The original technique, involved, white-light transillumination of everted eyelids from the skin aspect)
+
+Arita et al. developed a non-contact, slit lamp mounted meibography system that relies on an infrared ﬁlter and an infrared CCD video camera, in which imaging is less time-consuming than other systems.
+(Arita et al., developed, a non-contact system)
+(Arita et al., developed, a slit lamp mounted meibography system)
+
+
+interferometry (LipiView) was found to be related to meibomiangland area determined by meibography.
+(interferometry (LipiView), was found to, be related to meibomiangland area determined by meibography)
+
+Tear ﬂuid secretion has also been shown to be positively correlated, as a compensatory mechanism, with the area devoid of meibomian glands in patients with MGD.
+(Tear ﬂuid secretion, has also been shown to, be positively correlated with the area devoid of meibomian glands in patients with MGD)
+
+
+Diagnostic cut-off values for the meiboscore in combination with symptoms and lid margin abnormalities demonstrated a sensitivity of 84.9% and speciﬁcity of 96.7% for the diagnosis of MGD, in a study comparing normal eyes with those affected by obstructive MGD.
+(Diagnostic cut-off values for the meiboscore in combination with symptoms and lid margin abnormalities, demonstrated, a sensitivity of 84.9% and speciﬁcity of 96.7% for the diagnosis of MGD)
+
+
+Meibography scales have been found to be highly reproducible, Meibography has revealed that hanges in meibomian gland morphology are less pronounced in patients with ADDE than EDE.
+(Meibography scales, have been found to, be highly reproducible)
+(changes in meibomian gland morphology, are less pronounced in, patients with ADDE than EDE)
+
+
+However, shortening of meibomian gland ducts was frequently detected in wearers of contact lenses who complained of DED symptoms.
+(shortening of meibomian gland ducts, was detected in, wearers of contact lenses who complained of DED symptoms)
+
+
+Several different scoring scales, such as the meiboscore, have been of meibography.
+(Several different scoring scales, have been, of meibography)
+
+In addition, quantitative evaluation of meibomian gland area visualized by meibography has been performed.
+(quantitative evaluation of meibomian gland area visualized by meibography, has been, performed)
+
+Such quantitative evaluation has been applied to the diagnosis of MGD as well as to evaluation of the effects of treatment.
+(Such quantitative evaluation, has been applied to, the diagnosis of MGD as well as to evaluation of the effects of treatment.)
+
+
+Meibography alone does not appear to be sufﬁcient for the diagnosis of MGD, but instead should be interpreted in the context of other clinical parameters.
+(Meibography alone, does not appear to, be sufﬁcient for the diagnosis of MGD)
+
+
+Meibomian glands secrete meibum, which contains components of the lipid layer of the tear ﬁlm. Meibum quantity, quality and expressibility are thought to reﬂect meibomian gland function.
+The expressibility of meibum, as an indicator of meibum secretion, is commonly determined by the application of digital pressure to the glands, along the length of the eyelid, through the skin surface of
+the eyelid [406,431,432], although more standardized procedures for expression have been reported.
+In the normal eyelid, meibum is clear and readily expressed with gentle pressure.
+
+Conversely, the condition of meibum in patients with MGD is varied.
+(the condition of meibum in patients with MGD, is, varied)
+
+In such individuals, meibum can lose its clarity to become cloudy and then opaque and its viscosity can be increased, becoming toothpaste-like and difﬁcult to express in patients with severe MGD.
+(meibum, can lose, its clarity to become cloudy)
+(opaque and its viscosity, can be, increased) 
+(meibum, become, toothpaste-like and difﬁcult to express in patients with severe MGD)
+
+The ranging qualities of meibum as well as its expressibility have been evaluated in various grading schemes.
+(The ranging qualities of meibum as well as its expressibility, have been evaluated in, various grading scheme)
+
+The number and location of expressible glands, as well the response of the glands to different levels of digitally applied pressure, have thus been scored and graded, providing information directly related to
+meibomian gland condition.
+(The number and location of expressible glands, have, been scored and graded)
+(the response of the glands to different levels of digitally applied pressure, have, been scored and grade)
+
+However, the diagnostic value of meibomian gland expressibility and duct appearance has not been established in DED.
+(the diagnostic value of meibomian gland expressibility and duct appearance, has not, been established in DED)
+
+IVCM can be used to study the eyelid margin, to diagnose eyelid mite infestation, and to assess meibomian gland changes.
+(IVCM, can be used to study, the eyelid margin to diagnose eyelid mite infestation)
+(IVCM, can be used to study, the eyelid margin to assess meibomian gland changes)
+
+This technology has shown diagnostic beneﬁts in obstructive MGD, providing new information about meibomian gland morphology related to speciﬁc conditions, such as contact lens wear, GVHD and atopic kerato-
+conjunctivitis, and could detect the response of meibomian glands to treatment.
+(This technology, has shown, diagnostic beneﬁts in obstructive MGD)
+(This technology, provide, information about meibomian gland morphology related to speciﬁc conditions)
+
+
+Blinking is vital in maintaining optical performance and the health of the ocular surface.
+(Blinking, is vital in, maintaining optical performance and the health of the ocular surface)
+
+The blinking action clears debris, provides mechanical protection and re-forms the tear ﬁlm.
+(The blinking action, clears, debris)
+(The blinking action, provides, mechanical protection)
+(The blinking action, re-forms, the tear ﬁlm.
+
+Furthermore, blinking appears to be vital for meibum distribution, and in re-forming a proper tear ﬁlm lipid layer.
+(blinking, appears to be, vital for meibum distribution)
+(blinking, appears to be, vital in re-forming a proper tear ﬁlm lipid layer)
+
+The percentage of almost complete blinks is correlated to DED symptoms and LIPCOF, perhaps due to physical interference with spontaneous blinks, and may be related to MG morphology.
+(The percentage of almost complete blinks, is correlated to, DED symptoms and LIPCOF)
+(The percentage of almost complete blinks, may be related to, MG morphology)
+
+However, there is a broad spectrum of reported results, between 10% and 80%, for the percentage of incomplete blinks in a population of healthy individuals.
+(there, is, a broad spectrum of reported results for the percentage of incomplete blinks in a population of healthy individuals)
+
+
+This may be due to the different measurement protocols and procedures, or variations in the visual task, or the eyelid motion detection method.
+(This, may be, due to the different measurement protocols and procedures)
+
+The normal spontaneous blink rate is reported to occur from 10 to 15 blinks per minute.
+(The normal spontaneous blink rate, is reported to occur, from 10 to 15 blinks per minute)
+
+It is higher in females than in males, but the effect of age is controversial.
+(It, is, higher in females than in males)
+(the effect of age, is, controversial)
+
+Incomplete blinking can result in DED and exposure keratopathy.
+(Incomplete blinking, can result in, DED)
+(Incomplete blinking, exposure, keratopathy)
+
+The inter-blink interval is variable between subjects, is decreased in DED and can be increased with artiﬁcial tear instillation.
+(The inter-blink interval, is, variable between subjects)
+(The inter-blink interval, is decreased in, DED)
+(The inter-blink interval, can be increased with, artiﬁcial tear instillation)
+
+However, the blink rate is also affected by systemic conditions such as Parkinson disease, and tasks such as computer work.
+(the blink rate, is affected by, systemic conditions)
+
+Blink speed is faster in the closing phase than the opening phase and faster for the upper lid than for the lower lid.
+(Blink speed, is faster in, the closing phase than the opening phase and faster for the upper lid than for the lower lid)
+
+There appear to be no correlation between blink speed and either DED symptoms or tear ﬁlm stability.
+
+However, the upper lid velocity is positively related to LIPCOF.
+(the upper lid velocity, is related to, LIPCOF)
+
+Incomplete blinks can result in DED symptoms and corneal staining observable by slit lamp biomicroscope.
+(Incomplete blinks, can result in, DED symptoms and corneal staining observable)
+
+Using ﬂuorescein, the incomplete blink can be highlighted by a “tide line” visible as a dark line in the ﬂuorescein pattern indicating the lower limit of movement of the upper eyelid during a recent incomplete blink.
+(the incomplete blink, can be highlighted, by a “tide line” visible as a dark line in the ﬂuorescein pattern)
+
+More advanced methods utilise high speed video, possible now even on smart phones, observed from an inferiortemporal angle
+(More advanced methods, utilise, high speed video)
+
+
+However appropriate diagnostic cut-off values and sensitivity and speciﬁcity ﬁgures require investigation.
+(appropriate diagnostic cut-off values and sensitivity and speciﬁcity ﬁgures, require, investigation)
+
+
+Ocular surface sensitivity plays a role in the maintenance of ocular surface homeostasis.
+(Ocular surface sensitivity, plays a role in, the maintenance of ocular surface homeostasis)
+
+A Cochet-Bonnet esthesiometer has been applied to evaluate lid sensitivity in several studies.
+(A Cochet-Bonnet esthesiometer, evaluate, lid sensitivity in several studies)
+
+Norn found that lid sensitivity was intermediate between corneal sensitivity and conjunctival sensitivity in healthy subjects, and others have reported the lower eyelid is more sensitive than the upper eyelid.
+(lid sensitivity, was intermediate, between corneal sensitivity and conjunctival sensitivity in healthy subjects)
+(lower eyelid, is, more sensitive than the upper eyelid)
+
+Lid margin sensitivity was found to be normal in patients with chronic blepharitis or DED.
+(Lid margin sensitivity, be, normal in patients with chronic blepharitis or DED)
+ 
+It thus remains unclear whether lid sensitivity may show disease-dependent changes or whether it is unaffected in eyelid disease.
+(lid sensitivity, may show, disease-dependent changes)
+(it, is unaffected in, eyelid disease)
+
+
+Lipid thickness should be observed with an interferometric technique and the pattern graded.
+(Lipid thickness, should be observed with, an interferometric technique and the pattern graded.)
+
+
+Ideally meibography should be performed along with duct observation and expressibility.
+(Ideally meibography, should be performed, along with duct observation and expressibility)
+
+
+Few studies have monitored changes in DED signs and symptoms over time.
+
+
+New electronic technologies, such as smartphones or other handheld devices, have been tested recently to capture symptom information in “real time” rather than rely on reports from a recall period, thus aiding patient monitoring.
+(New electronic technologies, have been tested to capture, symptom information in “real time”)
+
+
+
+In multivariable logistic regression models for visual symptoms, spending >$20 (USD) per month on DED treatments, presence of a history of severe DED symptoms, and use of systemic beta-blockers were signiﬁcantly associated with patient-reported visual worsening.
+(presence of a history of severe DED symptoms,were associated with, patient-reported visual worsening)
+(presence of a history of severe DED symptoms,were associated with, use of systemic beta-blockers )
+
+Patients who reported severe symptoms of DED in the past were more likely to report worsening and to have corneal staining, suggesting that this might be a clinically relevant indicator of the probability of visual/OSD progression.
+(severe symptoms of DED, were ikely to report, worsening)
+(severe symptoms of DED, were ikely to have, corneal staining)
+
+
+In situations where there are chronic symptoms but limited signs, that are refractory to treatment, then neuropathic pain rather than DED should be considered.
+(chronic symptoms but limited signs, are, neuropathic pain rather than DED)
+
+
+The screening DEQ-5 or OSDI conﬁrms that a patient might have DED and triggers diagnostic testing of non-invasive breakup time, osmolarity [measured prior to breakup time if FBUT used] and ocular surface staining with ﬂuorescein and lissamine green (observing the cornea, conjunctiva and eyelid margin).
+(The screening DEQ-5 or OSDI, conﬁrms, DED)
+
+
+Marked symptoms in the absence of clinically observable signs might suggest an element of neuropathic pain.
+(Marked symptoms in the absence of clinically observable signs, might suggest, an element of neuropathic pain)
+
+
+DED is a subset of OSD; signs alone may still warrant management to prevent DED manifestation and to optimise the optical corneal surface such as prior to refractive surgery or contact lens wear.
+(DED, is, a subset of OSD)
+(signs, may still warrant management to prevent, DED manifestation) 
+(signs, may still warrant management to optimise, the optical corneal surface )
+
+MGD features, lipid thickness/dynamics, and tear volume assessment, and their severity inform the subtype classiﬁcation of DED as predominantly evaporative or predominantly aqueous deﬁcient which helps inform the management of DED.
+(MGD features, inform, the subtype classiﬁcation of DED)
+(lipid thickness/dynamics, inform, the subtype classiﬁcation of DED)
+(tear volume assessment, inform, the subtype classiﬁcation of DED) 
+(their severity, inform, the subtype classiﬁcation of DED as predominantly evaporative or predominantly aqueous deﬁcient)
+
+
+In accordance with the recommendations of the MGD Workshop, MILD MGD is indicated by a secretion grade 4-7, an expressibility grade of 1 and an amorphous/color fringe lipid pattern.
+(MILD MGD, is indicated by, a secretion grade 4-7)
+(MILD MGD, is indicated by, an expressibility grade of 1)
+(MILD MGD, is indicated by, an amorphous/color fringe lipid pattern)
+
+MODERATE MGD is indicated by meibomian gland oriﬁce plugging, lid margin vascularity, a secretion grade 8-12, an expressibility grade of 2 and a meshwork or wave (ﬂow) lipid pattern.
+(MODERATE MGD, is indicated by, meibomian gland oriﬁce plugging)
+(MODERATE MGD, is indicated by, lid margin vascularity)
+(MODERATE MGD, is indicated by, a secretion grade 8-12)
+(MODERATE MGD, is indicated by, an expressibility grade of 2)
+(MODERATE MGD, is indicated by, a meshwork or wave (ﬂow) lipid pattern)
+
+
+SEVERE MGD is indicated by lid margin meibomian gland oriﬁce drop-out or displacement, a secretion grade (cid:2) 13, an expressibility grade of 3 and an absent, globular or abnormal color fringe lipid pattern.
+(SEVERE MGD, is indicated by, lid margin meibomian gland oriﬁce drop-out or displacement)
+(SEVERE MGD, is indicated by, a secretion grade (cid:2) 13)
+(SEVERE MGD, is indicated by, an expressibility grade of 3 and an absent)
+(SEVERE MGD, is indicated by, globular or abnormal color fringe lipid pattern.)
+
+
+Sj€ogren syndrome should be suspected if the DEQ-5 score is > 12.
+(Sj€ogren syndrome, should be suspected, if the DEQ-5 score is > 12)
+
+
+
+Non-invasive breakup time should be performed with a method where as much of the naturally exposed cornea as possible is specularly illuminated with a light source allowing observation of breakup over the whole surface, after a blink.
+(the naturally exposed cornea, is illuminated with, a light source in Non-invasive breakup time)
+(Non-invasive breakup time, allow, observation of breakup over the whole surface)
+
+
+
+Following training, if a patient can no longer refrain from blinking before the tear ﬁlm breaks up, this is typically counted as the breakup time for that measurement.
+(a patient no refraining from blinking before the tear ﬁlm breaks up, is counted as, the breakup time for that measurement)
+
+The lower median breakup value of the two eyes should be considered in making the diagnosis.
+(The lower median breakup value of the two eyes, should be considered in, making the diagnosis)
+
+
+The cut-off for a positive ﬁnding can be as low as 2.7 s for automated algorithms, and up to 10 s for subjective observation techniques.
+(The cut-off for a positive ﬁnding, can be, as low as 2.7 s for automated algorithms)
+(The cut-off for a positive ﬁnding, can be, up to 10 s for subjective observation techniques)
+
+
+FBUT can be considered when non-invasive techniques are not available, but due to its more invasive nature, should follow after osmolarity measurement. 
+(FBUT, can be, considered)
+(FBUT, should follow, after osmolarity measurement)
+
+Fluorescein should be instilled at the outer canthus to avoid ocular surface damage, with the excess saline on the strip shaken off, or a reduced area ﬂuorescein strip used. For optimal results, viewing should take place between 1 and 3 min after instillation.
+(Fluorescein, should be instilled at, the outer canthus to avoid ocular surface damage)
+(viewing, should take, place between 1 and 3 min after instillation)
+
+A positive ﬁnding has been reported to be a value < 10 s although in some studies the average in healthy middle aged patients is noted to be lower than this.
+(A positive ﬁnding, has been reported to be, a value < 10 s)
+
+Sample from just above the lower eyelid tear meniscus, being careful not to press inward to avoid contact with the globe during collection.
+(being careful not to press, inward to avoid contact with, the globe during collection)
+
+
+The difference between the eyes as well as the absolute measures can be diagnostic.
+(The difference between the eyes as well as the absolute measures, can be, diagnostic)
+
+
+A positive result is considered to be 308 mOsm/L with the currently available device in either eye, or an interocular difference >8 mOsm/L.
+(A positive result, is considered to be, 308 mOsm/L with the currently available device in either eye)
+(A positive result, is considered to be, an interocular difference >8 mOsm/L.)
+
+
+Osmolarity should be assessed with a temperature stabilised, calibration checked device.
+(Osmolarity, should be assessed with, a temperature stabilised)
+(Osmolarity, should be assessed with, calibration checked device)
+
+
+In the case of the Tearlab, temperature stability is achieved by having the device powered on for a sufﬁcient period of time with test cards adjacent to the device for at least 30 min.
+(temperature stability, is achieved by, having the device powered on for a sufﬁcient period of time with test cards adjacent to the device for at least 30 min)
+
+
+Principally for assessing conjunctival and lid margin damage, a lissamine green strip is wet with saline, with the whole drop retained on the strip for at least 5 s to elute the dye.
+(a lissamine green strip, is wet with, saline for assessing conjunctival and lid margin damage)
+(a lissamine green strip, is wet with, the whole drop retained on the strip for at least 5 s to elute the dye)
+
+A 10 mL or ~ ¼ to ½ of a drop appears to be an optimal volume if pipetting a predetermined concentration solution.
+(A 10 mL or ~ ¼ to ½ of a drop, appears to be, an optimal volume)
+
+Otherwise, a drop from the strip is instilled inside the far lower temporal lid in upgaze with the lower eyelid of the eye pulled slightly temporally to avoid damage to the conjunctival or lid wiper tissue. 
+(a drop from the strip, is instilled inside, the far lower temporal lid in upgaze with the lower eyelid of the eye pulled slightly temporally to avoid damage to the conjunctival or lid wiper tissue.)
+
+Studies have suggested that observation should occur between 1 and 4 min post instillation, and that observation through a red ﬁlter potentially aids visualization.
+(observation, should occur, between 1 and 4 min post instillation)
+
+
+A positive score is > 9 conjunctival spots.
+(A positive score, is, > 9 conjunctival spots.)
+
+Principally for assessing corneal damage, ﬂuorescein should be instilled in a similar way, but with the excess saline on the strip shaken off to instil a minimal volume.
+(ﬂuorescein, should be instilled in, a similar way for assessing corneal damage)
+
+Optimal viewing is between 1 and 3 min after instillation.
+(Optimal viewing, is, between 1 and 3 min after instillation)
+
+A positive result is > 5 corneal spots.
+(A positive result, is, > 5 corneal spots)
+
+Lid wiper epitheliopathy can be observed stained with ﬂuorescein, rose bengal or lissamine green dyes, although there seems to be a preference for just lissamine green in recent research, with viewing recommended 3e6 min after repeat instillation using 2 separate strips wet with 2 saline drops.
+(Lid wiper epitheliopathy, can be observed, stained with ﬂuorescein)
+(Lid wiper epitheliopathy, can be observed, stained with rose bengal or lissamine green dyes)
+
+
+Positive is LWE of 2 mm in length and/or 25% sagittal width.
+(Positive, is, LWE of 2 mm in length and/or 25% sagittal width)
+
+optimized treatment and the delayed diagnosis of causative conditions that could have serious consequences, such as the higher risk of malignancy in Sj€ogren syndrome.
+(optimized treatment and the delayed diagnosis of causative conditions, could have, serious consequences)
+
+
+Symptoms of DED may be very similar to those of allergic conjunctivitis and the conditions can occur simultaneously.
+(Symptoms of DED may be very similar to those of allergic conjunctivitis and the conditions can occur simultaneously)
+
+
+DED severity can change with the time of day so this should be considered in interpreting results and in monitoring DED over time.
+(DED severity, can change, with the time of day)
+
+Systemically, the presence of immunoglobulin E (IgE) antibodies to seasonal or perennial allergens can be documented in most cases of allergic conjunctivitis, and there are now some diagnostic tests available to indicate the presence of IgE biomarkers in the tear ﬁlm or on the ocular surface.
+(the presence of immunoglobulin E (IgE) antibodies to seasonal or perennial allergens, can be documented, in most cases of allergic conjunctivitis)
+(some diagnostic tests, indicate, the presence of IgE biomarkers in the tear ﬁlm or on the ocular surface)
+
+In addition, classical allergic conjunctivitis clinical ﬁndings, such as conjunctival chemosis, eyelid edema and conjunctival papillae, differentiate allergic from DED.
+(classical allergic conjunctivitis clinical ﬁndings, differentiate, allergic from DED)
+
+Also, allergic rhinitis is present in more than 80% of ocular allergy cases, but is not a symptom known to be associated with DED.
+(allergic rhinitis, is present in, more than 80% of ocular allergy cases)
+(allergic rhinitis, is, not a symptom known to be associated with DED)
+
+Common oral pharmaceutical agents for allergy treatment have a signiﬁcant drying effect on the ocular surface and may actually induce DED in patients.
+(Common oral pharmaceutical agents for allergy treatment, have a signiﬁcant, drying effect on the ocular surface)
+(Common oral pharmaceutical agents for allergy treatment,  may actually induce DED in patients)
+
+A diminished tear volume, in turn, permits allergens to remain on the surface longer and may induce or exacerbate allergic conjunctivitis.
+(A diminished tear volume, permits, allergens to remain on the surface longer)
+(A diminished tear volume, may induce or exacerbate, allergic conjunctivitis.)
+
+Giant papillary conjunctivitis (GPC) is associated with trauma to the upper tarsal plate.
+(Giant papillary conjunctivitis (GPC), is associated with, trauma to the upper tarsal plate)
+
+Contact lens wear is the primary contributor, although an exposed suture following a corneal transplant, a foreign body or ocular prosthesis also could induce GPC.
+(Contact lens wear, is, the primary contributor)
+(a foreign body or ocular prosthesis, could induce, GPC)
+
+Symptoms of GPC and DED can overlap, including discomfort, decreased contact lens wear time and mucin discharge.
+(Symptoms of GPC and DED, can, overlap)
+
+The key differentiating ﬁndings include large upper tarsal papillae and hyperemia with usually minimal corneal or bulbar conjunctival involvement.
+(The key differentiating ﬁndings, include, large upper tarsal papillae and hyperemia with usually minimal corneal or bulbar conjunctival involvement)
+
+
+Atopic keratoconjunctivitis (AKC) is a chronic and potentially severe, visually threatening form of allergic eye disease.
+(Atopic keratoconjunctivitis (AKC), is, a chronic and potentially severe)
+(Atopic keratoconjunctivitis (AKC), is, threatening form of allergic eye disease.)
+
+
+
+Common symptoms include photophobia, burning, tearing, itching, mucoid discharge, and eyelid hyperemia and hypertrophy, often with greater lower eyelid involvement.
+(Common symptoms, include, photophobia)
+(Common symptoms, include, burning)
+(Common symptoms, include, tearing)
+(Common symptoms, include, itching)
+(Common symptoms, include, mucoid discharge)
+(Common symptoms, include, eyelid hyperemia and hypertrophy)
+(Common symptoms, include, with greater lower eyelid involvement)
+
+
+Some of the more common signs that are found in both AKC and DED include SPK, conjunctival injection or hyperemia, blepharitis/MGD and tear dysfunction.
+(SPK, is found in, both AKC and DED)
+(conjunctival injection or hyperemia, is found in, both AKC and DED)
+(blepharitis/MGD and tear dysfunction, is found in, both AKC and DED)
+
+
+The OSD in AKC patients is characterized by greater epithelial damage and SPK.
+(The OSD in AKC patients, is characterized by, greater epithelial damage and SPK)
+
+Prolonged inﬂammation plays an important role in the progression of OSD in patients with longstanding, active AKC.
+(Prolonged inﬂammation, plays, an important role in the progression of OSD in patients with longstanding and active AKC)
+
+The hallmark ﬁndings of AKC that may help differentiate it from DED include conjunctivitis (potentially cicatrizing), periorbital eczema, corneal neovascularization that could lead to eventual onjunctivalization of the cornea, symblepharon, keratoconus and anterior polar cataracts.
+(The hallmark ﬁndings of AKC, may help, differentiate it from DED)
+
+
+it is estimated that atopic dermatitis and asthma are present in 95% and 87% of AKC patients, respectively.
+(atopic dermatitis and asthma, are present in, 95% and 87% of AKC patients)
+
+
+Patients with including intense itching, VKC often report severe symptoms, burning, epiphora, injection and photophobia.
+(VKC, report, severe symptoms)
+(VKC, report, burning)
+(VKC, report, epiphora)
+(VKC, report, injection and photophobia.)
+
+
+Clinically, VKC is associated with the presence of large cobblestone papillae and/or Horner-Trantas dots.
+(VKC, is associated with, the presence of large cobblestone papillae and/or Horner-Trantas dots)
+
+The condition can lead to debilitating corneal damage, including shield ulcers and scarring.
+(The condition, can lead to, debilitating corneal damage)
+
+
+Viral conjunctivitis is a relatively common presentation that affects patients of all ages, including the ages during which DED is most frequent.
+(Viral conjunctivitis, is, a relatively common presentation that affects patients of all ages)
+
+The majority of viral conjunctivitis cases involve the highly contagious adenovirus (65e90%).
+(The majority of viral conjunctivitis cases, involve, the highly contagious adenovirus (65e90%))
+
+
+Patients with viral conjunctivitis usually experience redness and irritation in one eye initially, often spreading to the fellow eye within a few days.
+(Patients with viral conjunctivitis, experience, redness and irritation in one eye initially)
+(Patients with viral conjunctivitis, spread to, the fellow eye within a few days)
+
+
+Morning crusting is also common.
+(Morning crusting, is, common)
+
+Exam ﬁndings usually reveal a watery, mucoid discharge and red, edematous lids.
+(Exam ﬁndings, reveal, a watery)
+(Exam ﬁndings, reveal, mucoid discharge and red）
+(Exam ﬁndings, reveal, edematous lids)
+
+Preauricular lymphadenopathy is also commonly present.
+(Preauricular lymphadenopathy, is, present.)
+
+
+EKC, in particular, tends to be accompanied by periorbital edema and signiﬁcant inﬂammation that may also involve the extraocular muscles.
+(EKC, tends to be accompanied by, periorbital edema and signiﬁcant inﬂammation)
+
+A follicular response is often noted on the palpebral conjunctiva.
+(A follicular response, is noted on, the palpebral conjunctiva)
+
+Early stage EKC presents with positive preauricular lymphadenopathy on the ipsilateral side to the eye that ﬁrst manifested the conjunctivitis.
+(Early stage EKC, presents with, positive preauricular lymphadenopathy on the ipsilateral side to the eye)
+(Early stage EKC, manifested, the conjunctivitis)
+
+Approximately one week later, the cornea typically exhibits sub-epithelial inﬁltrates, which account for symptoms of irritation and pain, often leading to decreased visual acuity that can last months or even years after the infection subsides.
+(the cornea, exhibits, sub-epithelial inﬁltrates) 
+
+
+PCF is a highly infectious illness with systemic symptoms including sweats, sore throat, fever and headache. Myalgia, malaise, pharyngitis, and gastrointestinal disturbances also are typical in patients with PCF. 
+(PCF, is, a highly infectious illness with systemic symptoms)
+(Myalgia, are typical in, patients with PCF)
+(malaise, are typical in, patients with PCF)
+(pharyngitis and gastrointestinal disturbances, are typical in, patients with PCF)
+
+Upper respiratory tract symptoms may precede ocular ﬁndings, but not in all cases.
+(Upper respiratory tract symptoms, may precede, ocular ﬁndings)
+
+Acute follicular conjunctivitis and regional lymphoid hyperplasia with tender, enlarged preauricular lymph nodes are often also found in patients with PCF.
+(Acute follicular conjunctivitis and regional lymphoid hyperplasia with tender, are found in, patients with PCF)
+(enlarged preauricular lymph nodes, are found in, patients with PCF)
+
+PCF is most commonly observed in children and in groups living in close quarters, such as schools, prisons, ships, military bases and families.
+(PCF, is observed in, children and groups living in close quarters)
+
+
+It is self-limiting and often dissipates within a week.
+(It, is, self-limiting)
+(It, dissipates, within a week)
+
+Herpes viruses that cause conjunctivitis include the herpes simplex virus, varicella-zoster virus, which also causes chickenpox shingles, and Epstein-Barr virus, which also causes infectious.
+(Herpes viruses, cause, conjunctivitis)
+  
+Herpes simplex virus in its primary form typically affects children and presents as a unilateral red eye.
+(Herpes simplex virus in its primary form, affects, children)
+(Herpes simplex virus in its primary form, presents, as a unilateral red eye)
+
+
+It is sometimes accompanied by a vesicular rash around the eyelid area.
+(It, is accompanied by, a vesicular rash around the eyelid area)
+
+
+Secondary herpes simplex virus forms typically involve some form of keratitis in addition to the conjunctivitis.
+(Secondary herpes simplex virus forms, involve, some form of keratitis in addition to the conjunctivitis)
+
+Interestingly, research suggests that dry eye is a stressor that may contribute to stromal keratitis in patients who have herpes simplex. 
+(dry eye, is, a stressor)
+(dry eye, may contribute to ,stromal keratitis in patients)
+
+Herpes zoster conjunctivitis is also unilateral and typically is accompanied by a rash that involves pustules, vesicles and edema/the surrounding skin, respecting the midline.
+(Herpes zoster conjunctivitis, is unilateral)
+(Herpes zoster conjunctivitis, is accompanied by a rash)
+
+hyperemia of Conjunctivitis sometimes precedes the appearance of lesions, making diagnosis more challenging in patients with this inﬂammatory condition.
+(hyperemia of Conjunctivitis, precedes, the appearance of lesions)
+
+
+Initial exposure generally occurs during infancy or early childhood and produces subclinical infection.
+(Initial exposure, occurs, during infancy or early childhood)
+(Initial exposure, produces, subclinical infection)
+
+
+Epstein-Barr virus infection of ocular structures most often results in transient follicular conjunctivitis but can also manifest as DED, keratitis, uveitis, choroiditis, retinitis, oculoglandular syndrome, papillitis, and ophthalmoplegia. 
+(Epstein-Barr virus infection of ocular structures, results in, transient follicular conjunctivitis)
+
+
+Picornaviruses, such as enterovirus 70 and coxsackievirus A24, are highly contagious and often are the cause of epidemics.
+(Picornaviruses, are highly contagious and the cause of epidemics.)
+
+Like adenoviral conjunctivitis, picornaviruses cause an acute hemorrhagic response, although the clinical appearance is usually more severe.
+(picornaviruses, cause, an acute hemorrhagic response)
+
+A number of systemic virusesdincluding as rubeola (measles), rubella (German measles), mumps, and inﬂuenza also frequently involve conjunctival infection.
+(A number of systemic virusesdincluding, involve, conjunctival infection)
+
+In cases where clariﬁcation is desired, diagnostic tests with high sensitivity and speciﬁcity can help identify forms of viral conjunctivitis in minutes.
+(diagnostic tests with high sensitivity and speciﬁcity, can help identify, forms of viral conjunctivitis in minutes)
+
+Acute bacterial conjunctivitis is less common than viral and allergic conjunctivitis, but also shares several ﬁndings in common with DED.
+(Acute bacterial conjunctivitis, is, less common than viral and allergic conjunctivitis)
+
+Bacterial conjunctivitis can affect patients of any age, but is most commonly found in children.
+(acterial conjunctivitis, can affect, patients of any age)
+(acterial conjunctivitis, is found in, children)
+
+In adults, the more common culprits are gram-positive organisms such as staphylococcus, while in children bacterial conjunctivitis tends to be caused by Haemophilus inﬂuenzae and streptococcus species, with more
+than one causative organism in some cases.
+(the more common culprits, are, gram-positive organisms such as staphylococcus in adults)
+
+As with DED, patients who have bacterial conjunctivitis may complain of irritation, foreign body sensation, burning, stinging and photophobia.
+(bacterial conjunctivitis patients, may complain of, irritation)
+(bacterial conjunctivitis patients, may complain of, foreign body sensation)
+(bacterial conjunctivitis patients, may complain of, burning)
+(bacterial conjunctivitis patients, may complain of, stinging and photophobia)
+
+
+Symptoms of bacterial conjunctivitis usually include a greater degree of conjunctival injection compared to conjunctivitis caused by viruses or DED.
+(Symptoms of bacterial conjunctivitis, include, a greater degree of conjunctival injection)
+
+Also the discharge is wet and mucopurulent, rather than dry and crusty, and patients often complain of matting or adherence of the eyelids, especially in the morning.
+(the discharge, is, wet and mucopurulent)
+(patients, complain of, matting or adherence of the eyelids in the morning)
+
+Bacterial conjunctivitis can be unilateral or bilateral and can sometimes be accompanied by systemic ﬁndings, especially in children.
+(Bacterial conjunctivitis, can be, unilateral or bilateral )
+(Bacterial conjunctivitis, can be accompanied by, systemic ﬁndings especially in children)
+
+Systemic symptoms might include fever, malaise, purulent rhinorrhea and a respiratory infection.
+(Systemic symptoms, might include, fever)
+(Systemic symptoms, might include, malaise)
+(Systemic symptoms, might include, purulent rhinorrhea and a respiratory infection)
+ 
+
+In some cases, bacterial conjunctivitis is accompanied by a red sheen around the eyelids, which is indicative of preseptal cellulitis.
+(bacterial conjunctivitis, is accompanied by, a red sheen around the eyelids)
+
+
+Inﬂammation of the eyelids can result from infection by, or allergic reaction to, external agents.
+(Inﬂammation of the eyelids, can result from, infection by external agents)
+
+
+The clinical features of blepharitis include redness, exanthema, sores, eschar, swelling, and bullous formation.
+(The clinical features of blepharitis, include, redness)
+(The clinical features of blepharitis, include, exanthema)
+(The clinical features of blepharitis, include, sores)
+(The clinical features of blepharitis, include, eschar)
+(The clinical features of blepharitis, include, swelling and bullous formation.)
+
+
+
+Blepharitis is classiﬁed according to its anatomic location.
+(Blepharitis, is classiﬁed, according to its anatomic location)
+
+
+Anterior blepharitis affects the base of the eyelashes, eyelash follicles, and/or eyelid skin.
+(Anterior blepharitis, affects, the base of the eyelashes)
+(Anterior blepharitis, affects, eyelash follicles and/or eyelid skin.)
+
+Inﬂammation of follicles is categorized as marginal blepharitis, whereas that of eyelid skin is blepharo-dermatitis.
+(Inﬂammation of follicles, is categorized as, marginal blepharitis)
+
+The pathogenesis of anterior blepharitis is infectious or noninfectious in nature, and so the location and cause of the condition should be considered for diagnosis.
+(The pathogenesis of anterior blepharitis, is, infectious or noninfectious in nature)
+
+Clinical features of anterior blepharitis often overlap those of DED.
+(Clinical features of anterior blepharitis, overlap, those of DED)
+
+Recurrent or persistent blepharitis can cause DED, thus observation of the eyelid is important for adequate diagnosis of DED.
+(Recurrent or persistent blepharitis, can cause, DED)
+(observation of the eyelid, is, important for adequate diagnosis of DED)
+
+The tear meniscus, tear ﬁlm breakup time and pattern, foamy discharge and debris in the tear ﬁlm should be observed, along with the eyelid position, eyelid closure, blink response and the anterior eyelid margin. 
+(The tear meniscus, should, be observed)
+(tear ﬁlm breakup time and pattern, should, be observed)
+(foamy discharge and debris in the tear ﬁlm, should, be observed)
+
+Staphylococcal or seborrheic anterior blepharitis are linked to ADDE in 50e75% of cases, perhaps due to the decreased tear volume supporting less lysozyme or immunoglobulins. 
+(Staphylococcal or seborrheic anterior blepharitis, are linked to, ADDE in 50e75% of cases)
+
+Deﬁnitive diagnosis is made by identiﬁcation of the responsible microorganism or allergen.
+(Deﬁnitive diagnosis, is made by, identiﬁcation of the responsible microorganism or allergen)
+
+There are no speciﬁc clinical diagnostic tests for blepharitis.
+(There, are, no speciﬁc clinical diagnostic tests for blepharitis)
+
+However, cultures of the eyelid margins may be indicated for patients who have recurrent anterior blepharitis with severe inﬂammation as well as for patients who are not responding to therapy.
+(cultures of the eyelid margins, may be indicated for, patients)
+
+
+Demodex mites are common elongated microscopic ectoparasites that live on the surface of the human body.
+(Demodex mites, are, elongated microscopic ectoparasites)
+
+Demodex infestation is related to age with 84% of the population at age 60 and 100% of those older than 70 years exhibiting Demodex infestation.
+(Demodex infestation, is related to, age)
+
+Demodex can spread from the face to the eyelids, perhaps leading to blepharitis and also rosacea, which may be the link between DED and meibomian gland dysfunction.
+(Demodex, can spread, from the face to the eyelids)
+(Demodex, lead to, blepharitis and rosacea)
+
+However Demodex infestation can also be found in asymptomatic patients.
+(Demodex infestation, can be found in, asymptomatic patients)
+
+Contact lens wearers do not show higher rates of Demodex infestation than non-wearers, but the relationship with DED symptoms and signs has not been investigated.
+(Contact lens wearers, do not show, higher rates of Demodex infestation than non-wearers)
+(the relationship with DED symptoms and signs, has not been, investigated)
+
+Two species, Demodex folliculorum and Demodex brevis have been identiﬁed in human eyelids.
+(Demodex folliculorum and Demodex brevis, have been identiﬁed in, human eyelids)
+
+Demodex folliculorum are typically found in the lash follicles of the eyelids, whereas Demodex brevis burrow deep into sebaceous and meibomian glands.
+(Demodex folliculorum, are found in, the lash follicles of the eyelids)
+
+Sebum is thought to be their main food source and Demodex mites may consume follicular and glandular epithelial cells, which may lead to direct damage of the lid margin.
+(Sebum, is thought to be, their main food source)
+(Demodex mites, may consume, follicular and glandular epithelial cells)
+
+Demodex mites can cause blepharitis by carrying bacteria on their surface including streptococci and staphylococci.
+(Demodex mites, can cause, blepharitis by carrying bacteria on their surface including streptococci and staphylococci)
+
+Also the protein inside the Demodex mites and their waste products may trigger inﬂammatory responses, likely via a delayed hypersensitivity or an innate immune response.
+(the protein inside the Demodex mites and their waste products, may trigger, inﬂammatory responses)
+
+Demodex-based lid margin inﬂammation may result in blepharoconjunctivitis.
+(Demodex-based lid margin inﬂammation, may result in, blepharoconjunctivitis)
+
+Proper treatment of ocular demodicosis may resolve blephar-oconjunctivitis in adults, however its role in children remains unclear.
+(Proper treatment of ocular demodicosis, may resolve, blephar-oconjunctivitis in adults)
+
+Severe cases of demodex with inﬂamed lid margins can affect the cornea.
+(Severe cases of demodex with inﬂamed lid margins, can affect, the cornea)
+
+Demodex can sometimes be observed in situ with high magniﬁcation slit lamp microscopy, on epilated lashes using standard light microscopy or using more advanced techniques, such as IVCM.
+(Demodex, can be observed in, situ with high magniﬁcation slit lamp microscopy)
+(Demodex, can be observed on, epilated lashes using standard light microscopy or using more advanced techniques)
+
+
+
+Trachoma is caused by chlamydia trachomatis which results in inﬂammation, corneal inﬂammation and scarring of the conjunctiva, obliterating the meibomian gland ductules and goblet cells, and inducing DED complications.
+(Trachoma, is caused by, chlamydia trachomatis)
+
+
+The key differential signs from typical DED include the generally unilateral infectious nature, which can be accompanied by corneal ulcers, subepithelial inﬁltrates or opacity, superior epithelial keratitis, superior pannus, conjunctival scarring, mucopurlent discharge and follicles.
+(The key differential signs from typical DED, include, the generally unilateral infectious nature)
+
+
+
+The corneal epithelial barrier can be compromised in the setting of DED, and manifest clinically as punctate epithelial keratopathy/erosions by ﬂuorescein staining, most prominently in the interpalpebral zone.
+(The corneal epithelial barrier, can be compromised, in the setting of DED)
+
+Other epithelial changes in DED can include ﬁlaments, epithelial ridges and, in late stages, keratinization.
+(Other epithelial changes in DED, can include, ﬁlaments)
+(Other epithelial changes in DED, can include, epithelial ridges)
+(Other epithelial changes in DED, can include, keratinization)
+ 
+The epithelial barrier integrity, however, can be compromised due to other non-DED etiologies, which can also lead to epithelial changes and corneal ﬂuorescein staining.
+(The epithelial barrier integrity, can be compromised, due to other non-DED etiologies)
+
+
+
+Certain clinical features help to distinguish these other epithelial abnormalities from those that are directly related to the loss of tear ﬁlm homeostasis.
+(Certain clinical features, help to distinguish, these other epithelial abnormalities from those)
+
+
+More importantly, the clinical examination often provides additional information to alert the clinician.
+(the clinical examination,,provides, additional information to alert the clinician)
+
+Speciﬁcally, the pattern and location of the epithelial changes (particularly ﬂuorescein staining) can provide critical diagnostic clues that help distinguish DED from other alternative (or concomitant) conditions affecting the corneal epithelium.
+
+
+For instance, ﬂuorescein staining in a “whorl” pattern can be seen in the setting of epithelial stress (such as toxicity from medications) or conjunctivalization of  the cornea due to limbal stem cell deﬁciency.
+(ﬂuorescein staining in a “whorl” pattern, can be seen, in the setting of epithelial stressor conjunctivalization of the cornea due to limbal stem cell deﬁciency)
+
+Likewise, ﬂuorescein staining in the superior cornea, which is not typical for DED, may be seen in conditions such as superior limbic keratoconjunctivitis, ﬂoppy eyelid syndrome, and contact lens wear.
+(ﬂuorescein staining in the superior cornea, may be seen, in conditions such as superior limbic keratoconjunctivitis)
+(ﬂuorescein staining in the superior cornea, may be seen, in conditions such as ﬂoppy eyelid syndrome)
+(ﬂuorescein staining in the superior cornea, may be seen, in conditions such as contact lens wear)
+
+Conjunctival disease may be another co-morbid condition in patients with DED.
+(Conjunctival disease, may be, another co-morbid condition in patients with DED)
+
+One important disorder that can symptomatically mimic DED, and often co-exist and contribute to the patient's tear ﬁlm instability, is conjunctivochalasis.
+(conjunctivochalasis, can mimic, DED)
+(conjunctivochalasis, co-exist and contribute to, the patient's tear ﬁlm instability)
+
+In addition to the clinical ﬁndings, the lack of response to standard DED therapies further raises the suspicion and the need to address this co-existing condition.
+(the lack of response to standard DED therapies, raises, the suspicion and the need to address this co-existing condition)
+
+
+Other critical signs of co-existing conjunctival disease are cicatricial changes (sub-epithelial scarring, fornix foreshorten stagesing, entropion/trichiasis, cicatricial later and in symblepharon and  inization).
+(Other critical signs of co-existing conjunctival disease, are, cicatricial changes )
+
+These ﬁndings may be a manifestation of underlying systemic diseases such as mucous membrane pemphigoid (also known as ocular cicatricial pemphigoid) and chronic Stevens-Johnson syndrome.
+(These ﬁndings, may be, a manifestation of underlying systemic diseases)
+
+While these conditions universally have dry eyes as part of the clinical picture, an early diagnosis is critical, as the management often requires more advanced therapies including systemic immunomodulatory therapy.
+(these conditions, have ,dry eyes as part of the clinical picture)
+
+
+Filamentary keratitis is generally a chronic corneal condition, characterized by ﬁne strands of degenerated epithelial cells and mucus attached to the cornea at one or both ends.
+(Filamentary keratitis, is,  a chronic corneal condition)
+(Filamentary keratitis, is, characterized by ﬁne strands of degenerated epithelial cells and mucus attached to the cornea at one or both ends)
+
+
+ADDE is the most common ocular condition associated with ﬁlamentary keratitis and best-practice management involves treating the underlying DED and potential mechanical removal of the corneal ﬁlaments. 
+(ADDE, is, the most common ocular condition associated with ﬁlamentary keratitis and best-practice management involves treating the underlying DED and potential mechanical removal of the corneal ﬁlaments)
+ 
+Interstitial keratitis is any non-ulcerating inﬂammation of the corneal stroma, often with vascularisation, but without involvement of either the epithelium or endothelium.
+(Interstitial keratitis, is, any non-ulcerating inﬂammation of the corneal stroma)
+(Interstitial keratitis, is, with vascularisation)
+(Interstitial keratitis, is, without involvement of either the epithelium or endothelium)
+
+
+Neurotrophic keratitis from dysfunction of the ophthalmic division of the trigeminal nerve caused by conditions such as diabetes mellitus, ocular herpes simplex, neoplasia, and ophthalmic surgery is associated with reduced aqueous production.
+(Neurotrophic keratitis from dysfunction of the ophthalmic division of the trigeminal nerve caused by conditions, is associated with, reduced aqueous production)
+
+However, treatment after the early stages of the disease can require more radical treatment than primary DED such as antibiotics, antivirals, autologous serum and steroids.
+(treatment after the early stages of the disease, can require, more radical treatment than primary DED)
+
+Bullous keratopathy is a pathological condition in which small vesicles, or bullae, form in the cornea due to endothelial dysfunction.
+(Bullous keratopathy, is, a pathological condition in which small vesicles)
+(Bullous keratopathy, is, bullae)
+(Bullous keratopathy, is, form in the cornea due to endothelial dysfunction.)
+
+
+Eye involvement is common in patients with systemic autoimmune diseases, particularly rheumatoid arthritis, Sj€ogren syndrome, seronegative spondyloarthropathy, and antineutrophil cytoplasmic antibody-associated vasculitis.
+(Eye involvement, is, common in patients with systemic autoimmune diseases)
+
+
+Sj€ogren syndrome is considered a sub-classiﬁcation of DED, but requires speciﬁc diagnostic differentiation from other forms of DED to facilitate appropriate interdisciplinary treatment and allow monitoring of potentially life-threatening complications.
+(Sj€ogren syndrome, is considered, a sub-classiﬁcation of DED)
+
+
+It should be noted that tests not recommended for the diagnosis of DED, such as the Schirmer test, are still recommended for the diagnosis of Sj€ogren syndrome.
+(not recommended for the diagnosis of DED, are recommended, for the diagnosis of Sj€ogren syndrome)
+
+Lid related disease such as chalazion or infectious hordeolum, may result in DED symptoms.
+(Lid related disease, may result in, DED symptoms)
+
+Other eyelid conditions such as anterior blepharitis and MGD can inform the management of DED and therefore the eyelid should always be carefully observed when DED is investigated.
+(Other eyelid conditions, can inform, the management of DED)
+(the eyelid, should be, carefully observed)
+
+General symptoms of visual discomfort may include those linked to DED.
+(General symptoms of visual discomfort, may include, those linked to DED)
+
+DED is the predominant cause of computer vision syndrome, resulting in the reporting of general visual symptoms after prolonged use of digital screens compared to equivalent paper copy tasks.
+(DED, is, the predominant cause of computer vision syndrome)
+
+
+Incomplete blinks rather than a reduction in blink rate appears to be associated with these symptoms.
+(Incomplete blinks rather than a reduction in blink rate, appears to be associated with, these symptoms)
+
+Differentiation from primary DED is on the basis of history informed triggers of dryness and more general symptoms such as the eyes being tired, hurting, feeling heavy, burning, straining, stinging and periencing photophobia.
+(Differentiation from primary DED, is, on the basis of history informed triggers of dryness and more general symptoms)
+
+GVHD is an immune-mediated inﬂammatory disease that occurs following allogeneic hematological stem cell transplantation and causes destruction of host tissues by immunocompetent cells from the donor.
+(GVHD, is, an immune-mediated inﬂammatory disease)
+(GVHD, occurs, following allogeneic hematological stem cell transplantation)
+(GVHD, causes, destruction of host tissues by immunocompetent cells from the donor)
+
+
+Typical ocular complications in the acute form of the condition are pseudomembranous conjunctivitis and acute hemorrhagic conjunctivitis in 12e17% of cases, whereas 60e90% with the chronic form develop ocular symptoms of DED, perhaps due to tear ﬂuid levels of receptor agonist IL-8/CXCL8 and interferon inducible protein IP-10/CXCL10.
+(Typical ocular complications in the acute form of the condition, are, pseudomembranous conjunctivitis and acute hemorrhagic conjunctivitis)
+
+Ocular symptoms can be minimised by a stepwise approach to treatment involving topical anti-inﬂammatory medications and autologous serum tears, but patients must be monitored closely, as they are prone to serious ocular complications such as corneal perforation and endophthalmitis.
+(Ocular symptoms, can be minimised by, a stepwise approach to treatment involving topical anti-inﬂammatory medications and autologous serum tears)
+
+Contact lenses can induce dry eyes (termed CLIDE) and appropriate management strategies should be employed to minimize these.
+(Contact lenses, can induce, dry eyes)
+
+This should be distinguished from people who have diagnosed primary DED and wish to wear contact lenses where, as well as the selection of lens modality and material, non-preserved DED treatments should be considered.
+
+
+Concomitant psychosocial issues have been associated with DED.
+(Concomitant psychosocial issues, have been associated with, DED)
+
+Patients with DED have been shown to have increased prevalence of sleep and mood disorders.
+(Patients with DED, have been shown to have increased, prevalence of sleep and mood disorders)
+
+Anxiety and depression have also been reported with increased frequency in DED patients in a variety of studies.
+(Anxiety and depression, have been reported with, increased frequency in DED patients in a variety of studies)
+
+
+Subjects with a diagnosis of DED were more likely to experience severe psychological stress [odds ratio (OR) 2.5], depressive mood [OR 1.5], and anxiety [OR 1.5].
+(Subjects with a diagnosis of DED, were likely to experience, severe psychological stress)
+
+
+Beyond depression and anxiety, it has been suggested that DED can lead to neuropathic ocular pain and this has been shown to occur with greater frequency in patients who also have comorbid chronic pain syndromes. 
+(DED, can lead to, neuropathic ocular pain)
+
+Post-traumatic stress disorder has also been associated with DED and may have a link via treatment medication use or the underlying disease process.
+(Post-traumatic stress disorder, has been associated with, DED)
+(Post-traumatic stress disorder, may have a link via treatment medication use or the underlying disease process.)
+
+Neuropathic pain can be differentiated from a disease mechanism through the use of anaesthetic, although this has not been reported in relation to DED symptoms.
+(Neuropathic pain, can be, differentiated from a disease mechanism through the use of anaesthetic)
+
+Specialized forms of DED, such as Sj€ogren syndrome, has been associated with cognitive and mood disorders.
+(Specialized forms of DED, has been associated with, cognitive and mood disorders)
+
+Signs of these disorders signify central nervous system involvement, which is an emerging area within Sj€ogren syndrome understanding.
+(Signs of these disorders, signify, central nervous system involvement)
+
+
+Hence, a patient's perception of disease and function can be powerful.
+(a patient's perception of disease and function, can be, powerful)
+
+
+Technology is needed to determine key pathophysiological indicators of dry eye, such as osmolarity and inﬂammation, over the whole ocular surface in real-time within the inter-blink interval to better understand the predicated localized changes and how they impact DED
+(Technology, is needed to determine, key pathophysiological indicators of dry eye over the whole ocular surface in real-time within the inter-blink interval to better understand the predicated localized changes and how they impact DED)
+
+
+
+
